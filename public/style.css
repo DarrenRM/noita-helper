@@ -184,13 +184,52 @@ button:disabled {
 .response-content::before {
     content: '✦';
     position: absolute;
-    top: -15px;
+    top: -18px;
     left: 50%;
     transform: translateX(-50%);
     color: var(--accent-tablet);
     background-color: transparent;
     padding: 0 10px;
     font-size: 1.5rem;
+}
+
+/* Gold styling for clarifying questions */
+.response-content.question {
+    border-color: #f0c040;
+    box-shadow: 0 0 30px rgba(240, 192, 64, 0.2);
+    color: #f0c040;
+}
+
+.response-content.question::before {
+    content: '?';
+    color: #f0c040;
+}
+
+.response-content.question .pixel-char,
+.response-content.question .glyph-char {
+    color: #f0c040;
+}
+
+/* Pulsing input when awaiting follow-up */
+@keyframes pulse-gold {
+    0%, 100% {
+        border-color: var(--border-color);
+        box-shadow: none;
+    }
+    50% {
+        border-color: #f0c040;
+        box-shadow: 0 0 15px rgba(240, 192, 64, 0.4);
+    }
+}
+
+input[type="text"].awaiting-followup {
+    animation: pulse-gold 2s ease-in-out infinite;
+}
+
+/* Gold label styling for follow-up questions */
+label.followup-question {
+    color: #f0c040;
+    text-shadow: 0 0 8px rgba(240, 192, 64, 0.3);
 }
 
 .confidence-indicator {
@@ -201,21 +240,6 @@ button:disabled {
     font-family: 'NoitaPixel', 'Courier New', monospace;
 }
 
-.debug-info {
-    margin-top: 1rem;
-    padding: 0.5rem;
-    background-color: rgba(255, 0, 0, 0.1);
-    border: 1px solid rgba(255, 0, 0, 0.3);
-    border-radius: 4px;
-    font-size: 0.85rem;
-    color: #ff6666;
-    font-family: 'NoitaPixel', 'Courier New', monospace;
-}
-
-.debug-label {
-    font-weight: bold;
-    color: #ff4444;
-}
 
 .hidden {
     display: none;
