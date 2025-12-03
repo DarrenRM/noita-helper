@@ -792,105 +792,105 @@ The main path biomes are arranged vertically, progressing downward:
 
 ## Orb Areas (New Game Plus)
 
-| Description | Location (x, y) | Size (width × height) | Maps |
+| Description | Location (x, y) | Size (width × height) 
 |-------------|----------------|---------------------|------|
-| Spawn area for Sandcaves orb: Necromancy. Main/East/West ID: 4, 260, 132 | 17, 3 | 6 × 4 | new-game-plus-main-branch |
-| Spawn area for Holy Bomb orb. Main/East/West ID: 5, 261, 133 | 8, 7 | 10 × 12 | new-game-plus-main-branch |
-| Spawn area for Nuke orb. Main/East/West ID: 3, 259, 131 | 26, 20 | 6 × 6 | new-game-plus-main-branch |
-| Spawn area for Wizards' den orb: Cement. Main/East/West ID: 10, 266, 138 | 19, 27 | 5 × 6 | new-game-plus-main-branch |
-| Spawn area for Hell orb: Fireworks! Main/East/West ID: 8, 264, 136 | -5, 30 | 10 × 4 | new-game-plus-main-branch |
-| Spawn area for Snow chasm orb: Deercoy. Main/East/West ID: 9, 265, 137 | -20, 26 | 7 × 4 | new-game-plus-main-branch |
-| Spawn area for Frozen Vault orb: Tentacle. Main/East/West ID: 2, 258, 130 | -22, 4 | 6 × 3 | new-game-plus-main-branch |
-| Spawn area for Lake orb: Thundercloud. Main/East/West ID: 7, 263, 135 | -32, 10 | 9 × 10 | new-game-plus-main-branch |
-| Spawn area for Spiral Shot orb. Main/East/West ID: 6, 262, 134 | -15, 7 | 8 × 9 | new-game-plus-main-branch |
-| Spawn point for Sea of Lava orb. Always in the same spot | 1, -3 | 1 × 1 | new-game-plus-main-branch |
-| Spawn area for Earthquake orb. Always in the same spot | 19, -3 | 1 × 1 | new-game-plus-main-branch |
+| Spawn area for Sandcaves orb: Necromancy. Main/East/West ID: 4, 260, 132 | 17, 3 | 6 × 4 |
+| Spawn area for Holy Bomb orb. Main/East/West ID: 5, 261, 133 | 8, 7 | 10 × 12 | 
+| Spawn area for Nuke orb. Main/East/West ID: 3, 259, 131 | 26, 20 | 6 × 6 |
+| Spawn area for Wizards' den orb: Cement. Main/East/West ID: 10, 266, 138 | 19, 27 | 5 × 6 | 
+| Spawn area for Hell orb: Fireworks! Main/East/West ID: 8, 264, 136 | -5, 30 | 10 × 4 | 
+| Spawn area for Snow chasm orb: Deercoy. Main/East/West ID: 9, 265, 137 | -20, 26 | 7 × 4 | 
+| Spawn area for Frozen Vault orb: Tentacle. Main/East/West ID: 2, 258, 130 | -22, 4 | 6 × 3 | 
+| Spawn area for Lake orb: Thundercloud. Main/East/West ID: 7, 263, 135 | -32, 10 | 9 × 10 |
+| Spawn area for Spiral Shot orb. Main/East/West ID: 6, 262, 134 | -15, 7 | 8 × 9 | 
+| Spawn point for Sea of Lava orb. Always in the same spot | 1, -3 | 1 × 1 | 
+| Spawn area for Earthquake orb. Always in the same spot | 19, -3 | 1 × 1 | 
 
 ## Orbs
 
-| Name | Text | Location (x, y) | Maps | Wiki |
+| Name | Text | Location (x, y) |
 |------|------|----------------|------|------|
-| Orb: Earthquake | Secrets of Earth's anger have been unlocked to you | 9983, -1222 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Sea of Lava | Secrets of endless lava have been unlocked to you | 780, -1088 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Summon Tentacle | Secrets of otherworldly life have been unlocked to you | -9985, 2883 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Nuke | Secrets of utter destruction have been unlocked to you | 3472, 1879 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Necromancy | Secrets of Undeath have been unlocked to you | 9982, 2883 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Holy Bomb | Secrets of fire and brimstone have been unlocked to you | -4353, 3912 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Spiral Shot | Secrets of the Spiral have been unlocked to you | -3841, 10052 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Thundercloud | Secrets of the stormy skies have been unlocked to you | 4350, 836 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Fireworks! | Secrets of jubilation have been unlocked to you | -256, 16208 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Summon Deercoy, Flock of Ducks, and Worm Launcher | Secrets of hidden danger have been unlocked to you | -8960, 14666 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
-| Orb: Cement | Secrets of rebuilding have been unlocked to you | 10495, 16195 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Earthquake | Secrets of Earth's anger have been unlocked to you | 9983, -1222 | 
+| Orb: Sea of Lava | Secrets of endless lava have been unlocked to you | 780, -1088 | 
+| Orb: Summon Tentacle | Secrets of otherworldly life have been unlocked to you | -9985, 2883 | 
+| Orb: Nuke | Secrets of utter destruction have been unlocked to you | 3472, 1879 | 
+| Orb: Necromancy | Secrets of Undeath have been unlocked to you | 9982, 2883 | 
+| Orb: Holy Bomb | Secrets of fire and brimstone have been unlocked to you | -4353, 3912 | 
+| Orb: Spiral Shot | Secrets of the Spiral have been unlocked to you | -3841, 10052 | 
+| Orb: Thundercloud | Secrets of the stormy skies have been unlocked to you | 4350, 836 | 
+| Orb: Fireworks! | Secrets of jubilation have been unlocked to you | -256, 16208 | 
+| Orb: Summon Deercoy, Flock of Ducks, and Worm Launcher | Secrets of hidden danger have been unlocked to you | -8960, 14666 | 
+| Orb: Cement | Secrets of rebuilding have been unlocked to you | 10495, 16195 | 
 
 ## Spatial Awareness Points
 
-| Name | Location (x, y) | Maps | Wiki |
+| Name | Location (x, y) | 
 |------|----------------|------|------|
-| Mina (Player) | 226, 85 | regular-main-branch, regular-beta | Wiki |
-| Friend Boss (Toveri). Note that the boss did not spawn in the main world (bug), and only seen in the east world | -10500, 4360 | regular-main-branch, regular-beta | Wiki |
-| Coral Chest | 11519, -4806 | regular-main-branch, regular-beta | Wiki |
-| Dark Chest | 3840, 15649 | regular-main-branch, regular-beta | Wiki |
-| Ocarina | -9984, -6418 | regular-main-branch, regular-beta | Wiki |
-| Essence Of Spirits | -14081, 13567 | regular-main-branch, regular-beta | Wiki |
-| Essence Of Air | -13056, -5377 | regular-main-branch, regular-beta | Wiki |
-| Essence Of Fire | -14062, 370 | regular-main-branch, regular-beta | Wiki |
-| Essence Of Water | -5376, 16640 | regular-main-branch, regular-beta | Wiki |
-| Essence Of Earth | 16128, -1792 | regular-main-branch, regular-beta | Wiki |
-| Mountain Hall | 759, -450 | regular-main-branch, regular-beta | Wiki |
-| Perk Removal Altar (Nullifying Altar) | 14080, 7510 | regular-main-branch, regular-beta | Wiki |
-| Holy Mountain (Mines) | -2, 1373 | regular-main-branch, regular-beta | Wiki |
-| Holy Mountain (Coal Pits) | -2, 2909 | regular-main-branch, regular-beta | Wiki |
-| Holy Mountain (Snowy Depths) | -2, 4956 | regular-main-branch, regular-beta | Wiki |
-| Holy Mountain (Hiisi Base) | -2, 6492 | regular-main-branch, regular-beta | Wiki |
-| Holy Mountain (Underground Jungle) | -2, 8540 | regular-main-branch, regular-beta | Wiki |
-| Holy Mountain (Temple of the Art) | -2, 10589 | regular-main-branch, regular-beta | Wiki |
-| Holy Mountain (The Laboratory) | 2590, 13144 | regular-main-branch, regular-beta | Wiki |
+| Mina (Player) | 226, 85 |
+| Friend Boss (Toveri). Note that the boss did not spawn in the main world (bug), and only seen in the east world | -10500, 4360 |
+| Coral Chest | 11519, -4806 |
+| Dark Chest | 3840, 15649 |
+| Ocarina | -9984, -6418 |
+| Essence Of Spirits | -14081, 13567 | 
+| Essence Of Air | -13056, -5377 | 
+| Essence Of Fire | -14062, 370 |
+| Essence Of Water | -5376, 16640 | 
+| Essence Of Earth | 16128, -1792 |
+| Mountain Hall | 759, -450 |
+| Perk Removal Altar (Nullifying Altar) | 14080, 7510 | 
+| Holy Mountain (Mines) | -2, 1373 
+| Holy Mountain (Coal Pits) | -2, 2909 |
+| Holy Mountain (Snowy Depths) | -2, 4956 |
+| Holy Mountain (Hiisi Base) | -2, 6492 |
+| Holy Mountain (Underground Jungle) | -2, 8540 | 
+| Holy Mountain (Temple of the Art) | -2, 10589 | 
+| Holy Mountain (The Laboratory) | 2590, 13144 | 
 
 ## Structures
 
-| Name | Description | Location (x, y) | Maps | Wiki | Quest References |
+| Name | Description | Location (x, y) | Quest References
 |------|-------------|----------------|------|------|------------------|
-| Watchtower | Seems to just be a hint to head to the temples in the sky. | 14074, -810 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | - | - |
-| Barren Temple | You can find a potion of mimicium here to start your quest. Later you will need to revisit to help this temple flourish. | -5453, -5108 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | Cessation Quest |
-| Henkevä Temple. 'Spirited Temple' | Potions here require mimicium. Pheromone will aid you. They might also need a little kick. | -1806, -4880 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | Cessation Quest |
-| Ominous Temple | A large pool of ominous liquid is needed here. Sea of Mimicium will be helpful. | 2760, -4660 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | Cessation Quest |
-| Kivi Temple | A boss fight here might be easier with a spell unlocked in another temple | 7379, -4655 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | Cessation Quest |
-| Anvil | - | 1537, 6045 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | End of Everything Quest, Fish Quest |
-| Mountain Altar | - | 781, -1167 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Fish Quest |
-| The Work | - | 6397, 15072 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Perk Removal Altar (Nullifying Altar) | - | 14080, 7510 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Greed Curse Pedestal | - | -1376, -415 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Lake Island | - | -14073, 206 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Coral Crystal Key Quest |
-| Eye Spell Room | - | -3840, 5374 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Desert Skull, Eye | - | 7360, 80 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Sun/Moon | - | 259, -25847 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
-| Dark Sun/Dark Moon | - | 261, 37764 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
-| Hell Shop | - | -3323, 28400 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
-| Hell Shop | - | 3310, 36086 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
-| Heaven Shop | - | -3364, -20722 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
-| Heaven Shop | - | 3309, -13024 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
-| Gourd Cave | - | -16134, -6312 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Coral Crystal Key Quest, Dark Crystal Key Quest |
-| End Of Everything Room | - | -4862, 15110 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | End of Everything Quest |
-| Experimental Wand Diamond | - | 16127, 9986 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
-| Moon Radar Diamond | - | 16126, 3328 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Averice Diamond | - | 9472, 4330 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Hourglass | - | -2221, 5247 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Big Fungus - Desert Caves | - | 5890, 3302 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
-| Fungal Altar - Overgrown Cavern | - | 15104, 1848 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
-| Fungal Altar - Power Plant | - | 13056, 10040 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
-| Fungal Altar – Vault | - | -1280, 10040 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
-| Fungal Altar - Fungal Cavern | - | -3328, 1848 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
-| Fungal Altar - Air (Above Desert) | - | 5932, -4808 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
-| Outhouse | - | 9091, -1783 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Meditation Cube Room | - | -4349, 2303 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Buried Eye Room | - | 3894, 4405 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Race Track | - | 3250, 2309 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Tower Portal Diamond | - | 9984, 4358 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Gold Biome | - | 15096, -3331 | regular-main-branch, regular-beta | Wiki | - |
-| Gold Biome (Apotheosis) | - | 22778, -3336 | apotheosis-beta-branch | Wiki | - |
-| Gold Biome (Under The Lake) | - | -14072, 16615 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Dark Cave (At Refresh Heart) | - | -1796, 797 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
-| Scales | - | 13060, 8 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Watchtower | Seems to just be a hint to head to the temples in the sky. | 14074, -810 
+| Barren Temple | You can find a potion of mimicium here to start your quest. Later you will need to revisit to help this temple flourish. | -5453, -5108 | | Cessation Quest |
+| Henkevä Temple. 'Spirited Temple' | Potions here require mimicium. Pheromone will aid you. They might also need a little kick. | -1806, -4880 | Cessation Quest |
+| Ominous Temple | A large pool of ominous liquid is needed here. Sea of Mimicium will be helpful. | 2760, -4660 | Cessation Quest |
+| Kivi Temple | A boss fight here might be easier with a spell unlocked in another temple | 7379, -4655 | Cessation Quest |
+| Anvil | - | 1537, 6045 | End of Everything Quest, Fish Quest |
+| Mountain Altar | - | 781, -1167 | Fish Quest |
+| The Work | - | 6397, 15072 | 
+| Perk Removal Altar (Nullifying Altar) | - | 14080, 7510 |  - |
+| Greed Curse Pedestal | - | -1376, -415 | 
+| Lake Island | - | -14073, 206 | Coral Crystal Key Quest |
+| Eye Spell Room | - | -3840, 5374 
+| Desert Skull, Eye | - | 7360, 80 
+| Sun/Moon | - | 259, -25847 | Sun Quest |
+| Dark Sun/Dark Moon | - | 261, 37764 | Sun Quest |
+| Hell Shop | - | -3323, 28400 |
+| Hell Shop | - | 3310, 36086 | 
+| Heaven Shop | - | -3364, -20722 | 
+| Heaven Shop | - | 3309, -13024 | 
+| Gourd Cave | - | -16134, -6312 |  Coral Crystal Key Quest, Dark Crystal Key Quest |
+| End Of Everything Room | - | -4862, 15110 |  End of Everything Quest |
+| Experimental Wand Diamond | - | 16127, 9986 | 
+| Moon Radar Diamond | - | 16126, 3328 | 
+| Averice Diamond | - | 9472, 4330 | 
+| Hourglass | - | -2221, 5247 | 
+| Big Fungus - Desert Caves | - | 5890, 3302 | Sun Quest |
+| Fungal Altar - Overgrown Cavern | - | 15104, 1848 |  Sun Quest |
+| Fungal Altar - Power Plant | - | 13056, 10040 |  Sun Quest |
+| Fungal Altar – Vault | - | -1280, 10040 | Sun Quest |
+| Fungal Altar - Fungal Cavern | - | -3328, 1848 |  Sun Quest |
+| Fungal Altar - Air (Above Desert) | - | 5932, -4808 |  Sun Quest |
+| Outhouse | - | 9091, -1783 | 
+| Meditation Cube Room | - | -4349, 2303 | 
+| Buried Eye Room | - | 3894, 4405 | 
+| Race Track | - | 3250, 2309 | 
+| Tower Portal Diamond | - | 9984, 4358 | 
+| Gold Biome | - | 15096, -3331 |
+| Gold Biome (Apotheosis) | - | 22778, -3336 | 
+| Gold Biome (Under The Lake) | - | -14072, 16615 | 
+| Dark Cave (At Refresh Heart) | - | -1796, 797 | 
+| Scales | - | 13060, 8 |
 
 ## Books
 
@@ -947,21 +947,6 @@ Emerald Tablets are small green items found typically near Orbs of True Knowledg
 | Emerald Tablet - Volume X | At the bottom of the Desert Chasm in a temple similar to The Orb Room | "Take, he tells us, the stone of gold, combine with humour Which is permanent water, set in its vessel, Over a gentle fire until liquefaction takes place. Then leave it until the water dries, And the sand and water are combined, one with another; Then let the fire be more intense than before, Until it again becomes dry, and is made earth. When this is done, Understand that here is the beginning of the arcanum; But do this many times, until two-thirds of the water perish, And colours manifest unto you." | Yes | "True knowledge is a slippery thing. The unfortunate side effects of our divine stone." |
 
 
-
----
-
-## Source
-
-
-Additional data from:
-
-Excluded files:
-- biome_boundries_py.json (boundaries)
-- map_definitions.json (map definitions)
-- overlays_new_game_plus_orbs.json (overlays)
-- overlays_regular_game.json (overlays)
-- tilesources.json (tile sources)
-- spells.json (no location data, reference only)
 
 
 

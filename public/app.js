@@ -166,7 +166,7 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error('Error:', error);
             loading.classList.add('hidden');
             responseContainer.classList.remove('hidden');
-            responseText.textContent = "The spirits are silent (Network Error).";
+            responseText.textContent = "The gods are silent (Network Error).";
             submitBtn.disabled = false;
             // Reset follow-up state on network error
             isAwaitingFollowUp = false;

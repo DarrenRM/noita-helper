@@ -209,7 +209,7 @@ Return ONLY valid JSON (no explanation):
                 }
 
                 if (!hintText) {
-                    hintText = "The spirits sense you may have discovered something out of order. Retrace your steps - there may be something you missed.";
+                    hintText = "The gods sense you may have discovered something out of order. Retrace your steps - there may be something you missed.";
                 }
 
                 // Clear conversation state
@@ -325,16 +325,16 @@ Return ONLY valid JSON (no explanation):
             
             // If no hint for next step, they may have completed the quest
             if (!hintText) {
-                hintText = "The spirits sense you have reached the end of this path. The final steps are yours to take.";
+                hintText = "The gods sense you have reached the end of this path. The final steps are yours to take.";
             }
         }
 
         // If no hint found, provide a fallback message
         if (!hintText) {
             if (aiResponse.quest_id === null || aiResponse.current_step === null) {
-                hintText = "The spirits are unclear. Can you describe what you've done or where you are in more detail?";
+                hintText = "The gods are unclear. Can you describe what you've done or where you are in more detail?";
             } else {
-                hintText = "The spirits cannot find guidance for this step. Perhaps the path is not yet clear.";
+                hintText = "The gods cannot find guidance for this step. Perhaps the path is not yet clear.";
             }
         }
 
