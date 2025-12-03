@@ -2,32 +2,12 @@
 
 This document contains detailed information about major quests in Noita, including all steps, sub-steps, locations, prerequisites, discovery clues, and references to books/tablets.
 
-## How to Use Cross-References
-
-Throughout this document, you'll find cross-references to `noita-data.md` that provide additional context about locations, items, bosses, books, and other game elements. These references use the following format:
-
-- `[See: Biomes → Snowy Depths]` - Links to biome information in `noita-data.md`
-- `[See: Structures → Anvil]` - Links to structure information in `noita-data.md`
-- `[See: Items → Kantele]` - Links to item information in `noita-data.md`
-- `[See: Bosses → Ylialkemisti]` - Links to boss information in `noita-data.md`
-- `[See: Books → Research Notes]` - Links to book information in `noita-data.md`
-- `[See: Emerald Tablets → Volume II]` - Links to Emerald Tablet information in `noita-data.md`
-
-**How to navigate:**
-1. When you see a cross-reference like `[See: Items → Kantele]`, navigate to `noita-data.md`
-2. Find the section mentioned (e.g., "Items")
-3. Locate the specific entry (e.g., "Kantele")
-4. The entry will contain coordinates, maps, wiki links, and other relevant details
-
-**Example:** If a quest step mentions "Obtain Kantele" with reference `[See: Items → Kantele]`, you can find the exact coordinates (-1633, -791), which maps it appears in, and the wiki link in the Items section of `noita-data.md`.
-
----
 
 ## The End of Everything Quest (Hand Statue Quest)
 
 **Description:** A quest involving hand statues in the Snowy Depths that leads to unlocking the Summon Portal spell and accessing a secret portal location.
 
-**Source:** [The End of Everything Quest](https://noita.wiki.gg/wiki/The_End_of_Everything_Quest)
+**Source:** The End of Everything Quest
 
 **Prerequisites:**
 - Access to Snowy Depths
@@ -43,23 +23,20 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 **Steps:**
 
 1. **Break Open Three Hand Statues**
-   - Location: Snowy Depths (-5, 6) [See: Biomes → Snowy Depths]
-   - Difficulty: Easy-Medium - Requires finding and breaking statues
+   - Location: Snowy Depths (-5, 6)   - Difficulty: Easy-Medium - Requires finding and breaking statues
    - Prerequisites: Must have reached Snowy Depths
    - Notes: Multiple hand statues exist in this biome. Breaking three hand statues grants the Broken Spell
    - Reward: Broken Spell
    - Hint to find next step: The broken thing knows not wholeness. Seek where metal and flame are forged beneath the banner of industry.
 
 2. **Restore Broken Spell at Hiisi Base Anvil**
-   - Location: Anvil in Hiisi Base (1537, 6045) [See: Structures → Anvil] [See: Biomes → Hiisi Base]
-   - Difficulty: Medium - Requires reaching Hiisi Base
+   - Location: Anvil in Hiisi Base (1537, 6045)   - Difficulty: Medium - Requires reaching Hiisi Base
    - Prerequisites: Must have Broken Spell from hand statues
    - Notes: Placing Broken Spell on Anvil restores it to Summon Portal spell
    - Hint to find next step: Four watchers stand in silence, each marking a path. Their stillness speaks of spaces between spaces.
 
 3. **Triangulate Portal Location and Use Summon Portal**
-   - Location: Underground Jungle (-5, 13) - Four statues depicting robot Munkki form triangulation points [See: Biomes → Underground Jungle]
-   - Difficulty: Medium-High - Requires understanding triangulation and correct calculation
+   - Location: Underground Jungle (-5, 13) - Four statues depicting robot Munkki form triangulation points   - Difficulty: Medium-High - Requires understanding triangulation and correct calculation
    - Prerequisites: Must have Summon Portal spell
    - Notes: Use the four statues in Underground Jungle to triangulate the portal location, then use Summon Portal at the calculated position. Opens portal to steel chest with unique rewards
 
@@ -75,7 +52,7 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 
 **Description:** A multi-part quest chain involving floating temples in the sky that leads to unlocking the Cessation spell. This quest involves multiple temples, potion mimics, and alchemical transformations.
 
-**Source:** [The Cessation Quest](https://noita.wiki.gg/wiki/The_Cessation_Quest)
+**Source:** The Cessation Quest
 
 **Prerequisites:**
 - Ability to reach sky areas (flight or teleportation)
@@ -94,17 +71,15 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 ### Part 1: Barren Temple
 
 1. **Obtain Potion of Mimicium from Barren Temple**
-   - Location: Barren Temple (-5453, -5108) - Above Snowy Wasteland [See: Structures → Barren Temple]
-   - Difficulty: Medium - Requires reaching sky area
+   - Location: Barren Temple (-5453, -5108) - Above Snowy Wasteland   - Difficulty: Medium - Requires reaching sky area
    - Prerequisites: Flight or teleportation ability
-   - Notes: Contains glyphs, a potion mimic, and **Adept's Note** book [See: Books → Adept's Note]. Potion mimic can be charmed to yield Mimicium (essential for later steps)
+   - Notes: Contains glyphs, a potion mimic, and **Adept's Note** book. Potion mimic can be charmed to yield Mimicium (essential for later steps)
    - Hint to find next step: Beyond the tree tops, another temple floats. The glyph shows ten embraced by hearts.
 
 ### Part 2: Henkevä Temple (Spirited Temple)
 
 2. **Awaken Ten Potion Mimics at Henkevä Temple**
-   - Location: Henkevä Temple (-1806, -4880) - Above Giant Tree [See: Structures → Henkevä Temple. 'Spirited Temple']
-   - Difficulty: Medium - Requires Pheromone and Mimicium, reaching sky area
+   - Location: Henkevä Temple (-1806, -4880) - Above Giant Tree   - Difficulty: Medium - Requires Pheromone and Mimicium, reaching sky area
    - Prerequisites: Must have Mimicium and Pheromone
    - Notes: Contains empty potion mimics and glyph depicting ten bottles surrounded by hearts. Use Pheromone to charm mimics, then "kick" them (damage them slightly) to awaken them. Awakening ten unlocks Sea of Mimicium spell
    - Reward: Sea of Mimicium spell (permanent unlock)
@@ -113,27 +88,24 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 ### Part 3: Ominous Temple
 
 3. **Fill Ominous Temple Chamber with Ominous Liquid**
-   - Location: Ominous Temple (2760, -4660) - Above Pond [See: Structures → Ominous Temple]
-   - Difficulty: High - Requires transporting/creating Ominous Liquid, reaching sky area
+   - Location: Ominous Temple (2760, -4660) - Above Pond   - Difficulty: High - Requires transporting/creating Ominous Liquid, reaching sky area
    - Prerequisites: Must have Sea of Mimicium spell
    - Notes: Requires large pool of Ominous Liquid. Use Sea of Mimicium to create Ominous Liquid, fill the chamber to unlock Touch of Grass spell
    - Reward: Touch of Grass spell (permanent unlock)
    - Hint to find next step: The cycle turns. Return to where you began. What was empty remembers what it could be.
-   - Hint to find book: In the empty temple where you first learned of mimicry, words were written. Perhaps they speak of what comes next. ([See: Books → Adept's Note](../noita-data.md#books) - "Those who attain the fruit of the House above the Triadic Tomb shall hold this truth: The Holiest Ground is most fertile when touched by Our Water.")
+   - Hint to find book: In the empty temple where you first learned of mimicry, words were written. Perhaps they speak of what comes next. ( - "Those who attain the fruit of the House above the Triadic Tomb shall hold this truth: The Holiest Ground is most fertile when touched by Our Water.")
 
 ### Part 4: Return to Barren Temple
 
 4. **Return to Barren Temple and Cast Touch of Grass on Temple Surface**
-   - Location: Barren Temple (-5453, -5108) [See: Structures → Barren Temple]
-   - Difficulty: Medium
+   - Location: Barren Temple (-5453, -5108)   - Difficulty: Medium
    - Prerequisites: Must have Touch of Grass spell
-   - Notes: **Adept's Note** book hints: "The Holiest Ground is most fertile when touched by Our Water" [See: Books → Adept's Note]. Cast Touch of Grass to transform temple surface into Divine Ground
+   - Notes: **Adept's Note** book hints: "The Holiest Ground is most fertile when touched by Our Water". Cast Touch of Grass to transform temple surface into Divine Ground
    - Hint to find next step: Where ancient stone reaches skyward, an island house stands out. Within its walls, living water.
 
 5. **Obtain Urine**
     - Location: Various - Can be obtained through multiple methods:
-      - **Touch of Gold?** spell in Huussi (Outhouse) - Floating northwest of Pyramid summit (~9984, -786) [See: Bosses → Kolmisilmän Koipi]
-      - **Urine Jar** - Rare environmental spawn in Mines
+      - **Touch of Gold?** spell in Huussi (Outhouse) - Floating northwest of Pyramid summit (~9984, -786)      - **Urine Jar** - Rare environmental spawn in Mines
       - **Urine Flask** - Rare treasure chest reward
     - Difficulty: Medium - Requires finding one of the sources
     - Prerequisites: Must have created Divine Ground
@@ -141,8 +113,7 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
     - Hint to find next step: What was empty remembers. Perhaps it hungers for what flows from within.
 
 6. **Apply Urine to Divine Ground**
-    - Location: Barren Temple (-5453, -5108) [See: Structures → Barren Temple]
-    - Difficulty: Easy-Medium - Requires obtaining/creating urine
+    - Location: Barren Temple (-5453, -5108)    - Difficulty: Easy-Medium - Requires obtaining/creating urine
     - Prerequisites: Must have created Divine Ground and obtained urine
     - Notes: Creates Healium and unlocks Cessation spell
     - Reward: Cessation spell (permanent unlock), Healium creation knowledge
@@ -151,8 +122,7 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 ### Bonus: Kivi Temple
 
 7. **Locate Kivi Temple (Optional)**
-    - Location: Kivi Temple (7379, -4655) - Above Giant Skull [See: Structures → Kivi Temple] [See: Bosses → Kivi]
-    - Difficulty: Very High - Boss fight
+    - Location: Kivi Temple (7379, -4655) - Above Giant Skull    - Difficulty: Very High - Boss fight
     - Prerequisites: None (optional)
     - Notes: Contains Kivi boss fight. A spell unlocked in another temple might make this easier
 
@@ -165,15 +135,14 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 **Difficulty Rating:** Very High
 
 **References:**
-- **Adept's Note** book in Barren Temple provides clue about Divine Ground + Urine [See: Books → Adept's Note]
-
+- **Adept's Note** book in Barren Temple provides clue about Divine Ground + Urine
 ---
 
 ## Advanced Guide: Sun Quest (Uusi Aurinko)
 
 **Description:** An extremely complex endgame quest involving fungal altars, the Auringonsiemen (Sun Seed), elemental essences, and creating a new sun. This is one of the most involved quests in the game.
 
-**Source:** [Advanced Guide: Sun Quest](https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest)
+**Source:** Advanced Guide: Sun Quest
 
 **Prerequisites:**
 - Access to multiple biomes
@@ -209,53 +178,42 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
    - Hint to find next step: Five places appear where none were before. But to commune with them requires an eye that sees truth.
 
 3. **Obtain Paha Silmä (Evil Eye)**
-   - Location: Evil Eye (-2434, -203) [See: Items → Evil Eye]
-   - Difficulty: Medium-High - Requires exploration
+   - Location: Evil Eye (-2434, -203)   - Difficulty: Medium-High - Requires exploration
    - Prerequisites: None
    - Notes: Needed to interact with fungal altars
    - Hint to find next step: With altered sight and the eye of truth, approach the marked places. They may respond.
-   - Hint to find book: Where fungus grows in caverns, a teacher waits. The glyph on the altar guides the way. ([See: Books → Notes on Grand Alchemy (Book S_A)](../noita-data.md#notes-on-grand-alchemy-sun-quest-books) - "Among the great alchemical endeavors there are some that, while not equal to the Great Work, nonetheless are revered greatly for the deific potence they instill to whomsoever succeeds in harnessing their power. The One I am about to discuss calls for a Seed of great promise, hidden deep within the Soil of this Earth...")
+   - Hint to find book: Where fungus grows in caverns, a teacher waits. The glyph on the altar guides the way. ( - "Among the great alchemical endeavors there are some that, while not equal to the Great Work, nonetheless are revered greatly for the deific potence they instill to whomsoever succeeds in harnessing their power. The One I am about to discuss calls for a Seed of great promise, hidden deep within the Soil of this Earth...")
 
 ### Phase 2: Gathering Information from Fungal Altars
 
 4. **Visit Fungal Altar - Fungal Caverns**
-   - Location: Fungal Altar - Fungal Cavern (-3328, 1848) - Western edge of Coal Pits' Fungal Caverns [See: Structures → Fungal Altar - Fungal Cavern] [See: Biomes → Fungal Caverns]
-   - Difficulty: Medium - Requires exploration
+   - Location: Fungal Altar - Fungal Cavern (-3328, 1848) - Western edge of Coal Pits' Fungal Caverns   - Difficulty: Medium - Requires exploration
    - Prerequisites: Must have Tripping effect and Paha Silmä
-   - Notes: While Tripping, hold Paha Silmä near altar to summon rainbow mushroom with three eyes. Provides **Notes on Grand Alchemy (Book S_A)** - hints about finding the Seed [See: Books → Notes on Grand Alchemy (Book S_A)]
-   - Hint to find next step: First words speak of soil's secret. Four more teachers await - one floats above desert, others hide in dangerous places.
-   - Hint to find book: Above the desert chasm, where brickwork stands, another altar floats. The teacher there speaks of awakening. ([See: Books → Notes on Grand Alchemy (Book S_B)](../noita-data.md#notes-on-grand-alchemy-sun-quest-books) - "...Bring the slumbering Seed to life by letting it soak in the rays of the Sun, on the pinnacle of past civilizations...")
+   - Notes: While Tripping, hold Paha Silmä near altar to summon rainbow mushroom with three eyes. Provides **Notes on Grand Alchemy (Book S_A)** - hints about finding the Seed   - Hint to find next step: First words speak of soil's secret. Four more teachers await - one floats above desert, others hide in dangerous places.
+   - Hint to find book: Above the desert chasm, where brickwork stands, another altar floats. The teacher there speaks of awakening. ( - "...Bring the slumbering Seed to life by letting it soak in the rays of the Sun, on the pinnacle of past civilizations...")
 
 5. **Visit Fungal Altar - Desert Chasm**
-   - Location: Fungal Altar - Air (Above Desert) (5932, -4808) - Above Brickwork structure on western edge of Desert [See: Structures → Fungal Altar - Air (Above Desert)]
-   - Difficulty: Medium-High - Requires reaching sky area
+   - Location: Fungal Altar - Air (Above Desert) (5932, -4808) - Above Brickwork structure on western edge of Desert   - Difficulty: Medium-High - Requires reaching sky area
    - Prerequisites: Must have Tripping effect and Paha Silmä
-   - Notes: Provides **Notes on Grand Alchemy (Book S_B)** - hints about awakening Seed at Pyramid [See: Books → Notes on Grand Alchemy (Book S_B)]
-   - Hint to find next step: Second words speak of sun and ancient pinnacles. Three teachers remain - seek where power hums with machines.
-   - Hint to find book: Where machines hum with power, deep within that place, a third teacher waits. It speaks of where sun first shone. ([See: Books → Notes on Grand Alchemy (Book S_C)](../noita-data.md#notes-on-grand-alchemy-sun-quest-books) - "...Once the Seed has been awakened, it must be brought to the place where the Sun first shone upon the Earth, to be bathed in the light of the original Sun...")
+   - Notes: Provides **Notes on Grand Alchemy (Book S_B)** - hints about awakening Seed at Pyramid   - Hint to find next step: Second words speak of sun and ancient pinnacles. Three teachers remain - seek where power hums with machines.
+   - Hint to find book: Where machines hum with power, deep within that place, a third teacher waits. It speaks of where sun first shone. ( - "...Once the Seed has been awakened, it must be brought to the place where the Sun first shone upon the Earth, to be bathed in the light of the original Sun...")
 
 6. **Visit Fungal Altar - Power Plant**
-   - Location: Fungal Altar - Power Plant (13056, 10040) - Middle of left side of Power Plant [See: Structures → Fungal Altar - Power Plant] [See: Biomes → Power Plant]
-   - Difficulty: High - Power Plant is dangerous
+   - Location: Fungal Altar - Power Plant (13056, 10040) - Middle of left side of Power Plant   - Difficulty: High - Power Plant is dangerous
    - Prerequisites: Must have Tripping effect and Paha Silmä
-   - Notes: Provides **Notes on Grand Alchemy (Book S_C)** - hints about bringing Seed to original Sun [See: Books → Notes on Grand Alchemy (Book S_C)]
-   - Hint to find next step: Third words speak of where sun first shone. Two teachers remain - one guards treasure in a vault.
-   - Hint to find book: Within the vault where treasure sleeps, seek the altar. The teacher there speaks of where new sun rises. ([See: Books → Notes on Grand Alchemy (Book S_D)](../noita-data.md#notes-on-grand-alchemy-sun-quest-books) - "...The Seed, now imbued with the power of the original Sun, must be taken to the place where the new Sun shall rise, to be bathed in the light of the new dawn...")
+   - Notes: Provides **Notes on Grand Alchemy (Book S_C)** - hints about bringing Seed to original Sun   - Hint to find next step: Third words speak of where sun first shone. Two teachers remain - one guards treasure in a vault.
+   - Hint to find book: Within the vault where treasure sleeps, seek the altar. The teacher there speaks of where new sun rises. ( - "...The Seed, now imbued with the power of the original Sun, must be taken to the place where the new Sun shall rise, to be bathed in the light of the new dawn...")
 
 7. **Visit Fungal Altar - The Vault**
-   - Location: Fungal Altar – Vault (-1280, 10040) - Middle of bottom part of The Vault [See: Structures → Fungal Altar – Vault] [See: Biomes → The Vault]
-   - Difficulty: High - The Vault is dangerous
+   - Location: Fungal Altar – Vault (-1280, 10040) - Middle of bottom part of The Vault   - Difficulty: High - The Vault is dangerous
    - Prerequisites: Must have Tripping effect and Paha Silmä
-   - Notes: Provides **Notes on Grand Alchemy (Book S_D)** - hints about bringing Seed to new Sun location [See: Books → Notes on Grand Alchemy (Book S_D)]
-   - Hint to find next step: Fourth words speak of where new sun rises. One teacher remains - where fungus grows wild and untamed.
-   - Hint to find book: Where fungus grows wild and untamed, in the overgrown cavern, the final teacher waits. It speaks of returning to the beginning. ([See: Books → Notes on Grand Alchemy (Book S_E)](../noita-data.md#notes-on-grand-alchemy-sun-quest-books) - "...Finally, the Seed must be returned to the place where it was first found, to complete the cycle and bring forth the new Sun...")
+   - Notes: Provides **Notes on Grand Alchemy (Book S_D)** - hints about bringing Seed to new Sun location   - Hint to find next step: Fourth words speak of where new sun rises. One teacher remains - where fungus grows wild and untamed.
+   - Hint to find book: Where fungus grows wild and untamed, in the overgrown cavern, the final teacher waits. It speaks of returning to the beginning. ( - "...Finally, the Seed must be returned to the place where it was first found, to complete the cycle and bring forth the new Sun...")
 
 8. **Visit Fungal Altar - Overgrown Cavern**
-   - Location: Fungal Altar - Overgrown Cavern (15104, 1848) - Top-right corner of Overgrown Cavern [See: Structures → Fungal Altar - Overgrown Cavern] [See: Biomes → Overgrown Cavern]
-   - Difficulty: High - Overgrown Cavern is dangerous
+   - Location: Fungal Altar - Overgrown Cavern (15104, 1848) - Top-right corner of Overgrown Cavern   - Difficulty: High - Overgrown Cavern is dangerous
    - Prerequisites: Must have Tripping effect and Paha Silmä
-   - Notes: Provides **Notes on Grand Alchemy (Book S_E)** - hints about returning Seed to origin [See: Books → Notes on Grand Alchemy (Book S_E)]
-   - Hint to find next step: Fifth words complete the circle - return to beginning. The path is known. Dig deep in soil where the seed of promise sleeps.
+   - Notes: Provides **Notes on Grand Alchemy (Book S_E)** - hints about returning Seed to origin   - Hint to find next step: Fifth words complete the circle - return to beginning. The path is known. Dig deep in soil where the seed of promise sleeps.
 
 ### Phase 3: Finding and Awakening the Seed
 
@@ -265,41 +223,36 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
     - Prerequisites: Must have read Book S_A
     - Notes: **Book S_A** states: "hidden deep within the Soil of this Earth"
     - Hint to find next step: The seed sleeps in earth's depths. Perhaps it dreams of sunlight. Perhaps it needs to wake where ancients built toward sky.
-    - Hint to find book: Above the desert chasm, where brickwork stands, words were spoken of ancient pinnacles and awakening. Remember what was said. ([See: Books → Notes on Grand Alchemy (Book S_B)](../noita-data.md#notes-on-grand-alchemy-sun-quest-books) - "...Bring the slumbering Seed to life by letting it soak in the rays of the Sun, on the pinnacle of past civilizations...")
+    - Hint to find book: Above the desert chasm, where brickwork stands, words were spoken of ancient pinnacles and awakening. Remember what was said. ( - "...Bring the slumbering Seed to life by letting it soak in the rays of the Sun, on the pinnacle of past civilizations...")
 
 10. **Bring Seed to Pyramid and Awaken It**
-    - Location: Pyramid in Desert (near Kolmisilmän koipi boss ~9984, -786) [See: Bosses → Kolmisilmän Koipi]
-    - Difficulty: High - Requires transporting Seed
+    - Location: Pyramid in Desert (near Kolmisilmän koipi boss ~9984, -786)    - Difficulty: High - Requires transporting Seed
     - Prerequisites: Must have found Seed
-    - Notes: **Book S_B** states: "let it soak in the rays of the Sun, on the pinnacle of past civilizations" (Pyramid) [See: Books → Notes on Grand Alchemy (Book S_B)]. Expose Seed to sunlight at Pyramid top to awaken it, creating Youngling
+    - Notes: **Book S_B** states: "let it soak in the rays of the Sun, on the pinnacle of past civilizations" (Pyramid). Expose Seed to sunlight at Pyramid top to awaken it, creating Youngling
     - Hint to find next step: The seed stirs, becomes young. But youth knows hunger. Four elements form all things - perhaps they must be consumed.
 
 ### Phase 4: Elemental Imbuement
 
 11. **Obtain Essence of Earth**
-    - Location: Essence Of Earth (16128, -1792) or (23808, -1793 for Apotheosis) [See: Items → Essence Of Earth]
-    - Difficulty: Very High - Extremely dangerous location
+    - Location: Essence Of Earth (16128, -1792) or (23808, -1793 for Apotheosis)    - Difficulty: Very High - Extremely dangerous location
     - Prerequisites: Must have Youngling
     - Notes: Crystallized Essence needed
     - Hint to find next step: One element claimed. Three remain - where wind never ceases.
 
 12. **Obtain Essence of Air**
-    - Location: Essence Of Air (-13056, -5377) [See: Items → Essence Of Air]
-    - Difficulty: Very High - Extremely dangerous location
+    - Location: Essence Of Air (-13056, -5377)    - Difficulty: Very High - Extremely dangerous location
     - Prerequisites: Must have Youngling
     - Notes: Crystallized Essence needed
     - Hint to find next step: Two elements held. Two remain - where flame knows no end.
 
 13. **Obtain Essence of Fire**
-    - Location: Essence Of Fire (-14062, 370) [See: Items → Essence Of Fire]
-    - Difficulty: Very High - Extremely dangerous location
+    - Location: Essence Of Fire (-14062, 370)    - Difficulty: Very High - Extremely dangerous location
     - Prerequisites: Must have Youngling
     - Notes: Crystallized Essence needed
     - Hint to find next step: Three elements bound. One remains - where water dwells in deepest places.
 
 14. **Obtain Essence of Water**
-    - Location: Essence Of Water (-5376, 16640) [See: Items → Essence Of Water]
-    - Difficulty: Very High - Extremely dangerous location
+    - Location: Essence Of Water (-5376, 16640)    - Difficulty: Very High - Extremely dangerous location
     - Prerequisites: Must have Youngling
     - Notes: Crystallized Essence needed
     - Hint to find next step: Four elements complete. Pour their terrible power into the youngling, and watch it transform.
@@ -328,22 +281,18 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
     - Prerequisites: Must have Stone
     - Notes: **Book S_C** and **Book S_D** reference bringing to Sun locations
     - Hint to find next step: Fire has tempered it. Now ascend far above, where the original sun once touched this earth.
-    - Hint to find book: Where machines hum with power, words were spoken of where sun first shone. Remember what was written. ([See: Books → Notes on Grand Alchemy (Book S_C)](../noita-data.md#notes-on-grand-alchemy-sun-quest-books) - "...Once the Seed has been awakened, it must be brought to the place where the Sun first shone upon the Earth, to be bathed in the light of the original Sun...")
+    - Hint to find book: Where machines hum with power, words were spoken of where sun first shone. Remember what was written. ( - "...Once the Seed has been awakened, it must be brought to the place where the Sun first shone upon the Earth, to be bathed in the light of the original Sun...")
 
 18. **Bring Stone to Original Sun Location**
-    - Location: Moon (259, -25847) - Original Sun location [See: Structures → Sun/Moon]
-    - Difficulty: Extreme - Requires reaching Moon
+    - Location: Moon (259, -25847) - Original Sun location    - Difficulty: Extreme - Requires reaching Moon
     - Prerequisites: Must have Stone, Moon Radar helpful
-    - Notes: **Book S_C** states: "place where the Sun first shone upon the Earth" [See: Books → Notes on Grand Alchemy (Book S_C)]
-    - Hint to find next step: Bathed in original light. Now descend to deepest depths, where the new sun waits to rise.
-    - Hint to find book: Within the vault where treasure sleeps, words were spoken of where new sun rises. Remember what was written. ([See: Books → Notes on Grand Alchemy (Book S_D)](../noita-data.md#notes-on-grand-alchemy-sun-quest-books) - "...The Seed, now imbued with the power of the original Sun, must be taken to the place where the new Sun shall rise, to be bathed in the light of the new dawn...")
+    - Notes: **Book S_C** states: "place where the Sun first shone upon the Earth"    - Hint to find next step: Bathed in original light. Now descend to deepest depths, where the new sun waits to rise.
+    - Hint to find book: Within the vault where treasure sleeps, words were spoken of where new sun rises. Remember what was written. ( - "...The Seed, now imbued with the power of the original Sun, must be taken to the place where the new Sun shall rise, to be bathed in the light of the new dawn...")
 
 19. **Bring Stone to New Sun Location**
-    - Location: Dark Moon (261, 37764) - New Sun location [See: Structures → Dark Sun/Dark Moon]
-    - Difficulty: Extreme - Requires reaching Dark Moon
+    - Location: Dark Moon (261, 37764) - New Sun location    - Difficulty: Extreme - Requires reaching Dark Moon
     - Prerequisites: Must have brought Stone to original Sun
-    - Notes: **Book S_D** states: "place where the new Sun shall rise" [See: Books → Notes on Grand Alchemy (Book S_D)]
-    - Hint to find next step: Two lights have touched it. The final lesson awaits - return to where you first found the sleeping seed.
+    - Notes: **Book S_D** states: "place where the new Sun shall rise"    - Hint to find next step: Two lights have touched it. The final lesson awaits - return to where you first found the sleeping seed.
 
 ### Phase 7: Completion
 
@@ -351,7 +300,7 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
     - Location: Where Seed was originally found
     - Difficulty: Extreme
     - Prerequisites: Must have completed all previous steps
-    - Notes: **Book S_E** states: "returned to the place where it was first found, to complete the cycle" [See: Books → Notes on Grand Alchemy (Book S_E)]. Creates Uusi Aurinko (New Sun)
+    - Notes: **Book S_E** states: "returned to the place where it was first found, to complete the cycle". Creates Uusi Aurinko (New Sun)
 
 **Rewards:**
 - The Crown (permanent unlock)
@@ -361,17 +310,14 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 **Difficulty Rating:** Extreme
 
 **References:**
-- **Notes on Grand Alchemy** books (S_A through S_E) at each fungal altar provide step-by-step guidance [See: Books → Notes on Grand Alchemy (Book S_A) through (Book S_E)]
-- **Tome of Essences** book (near Coral Chest) mentions Essences and Moon connection [See: Books → Tome of Essences] [See: Items → Coral Chest]
-- **Book of Celestial Bodies** (near Music Stone) mentions Sun/Moon counterparts [See: Books → Book of Celestial Bodies] [See: Items → Music Stone]
-
+- **Notes on Grand Alchemy** books (S_A through S_E) at each fungal altar provide step-by-step guidance- **Tome of Essences** book (near Coral Chest) mentions Essences and Moon connection- **Book of Celestial Bodies** (near Music Stone) mentions Sun/Moon counterparts
 ---
 
 ## Advanced Guide: Fish Quest
 
 **Description:** A quest involving fish, the Mountain Altar, musical instruments, and the Master of Masters. This quest unlocks several spells related to fish and swamp mechanics, referencing Finnish mythology.
 
-**Source:** [Advanced Guide: Fish Quest](https://noita.wiki.gg/wiki/Advanced_Guide:_Fish_Quest)
+**Source:** Advanced Guide: Fish Quest
 
 **Prerequisites:**
 - Access to Mountain Altar
@@ -397,31 +343,27 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
    - Hint to find next step: A swimmer caught. Carry it upward to the altar floating above your first mountain.
 
 2. **Transport Fish to Mountain Altar and Place It**
-   - Location: Mountain Altar (781, -1167) - Above starting Mountain [See: Structures → Mountain Altar]
-   - Difficulty: Easy-Medium - Requires transporting fish upward
+   - Location: Mountain Altar (781, -1167) - Above starting Mountain   - Difficulty: Easy-Medium - Requires transporting fish upward
    - Prerequisites: Must have obtained a fish
    - Notes: Altar is visible above starting area. Can use spells to transport fish or carry it. Placing fish triggers Fish Rain event - fish fall from sky
    - Hint to find next step: When the sky gives back what was given, something remains. Bone where there was none.
 
 4. **Complete Fish Rain Event**
-   - Location: Mountain Altar area (781, -1167) [See: Structures → Mountain Altar]
-   - Difficulty: Easy - Event completes automatically
+   - Location: Mountain Altar area (781, -1167)   - Difficulty: Easy - Event completes automatically
    - Prerequisites: Must have triggered Fish Rain
    - Notes: Fish Rain event must complete. After completion, Hauen Leukaluu wand appears. Only one can be obtained per run (unless using Polymorphine or entity duplication methods)
    - Reward: Hauen Leukaluu wand
    - Hint to find next step: Bone in hand. Where metal meets flame, things change. Perhaps the bone remembers what it could be.
 
 5. **Transport Hauen Leukaluu to Hiisi Base Anvil and Place It**
-   - Location: Anvil in Hiisi Base (1537, 6045) [See: Structures → Anvil] [See: Biomes → Hiisi Base]
-   - Difficulty: Medium - Requires reaching Hiisi Base
+   - Location: Anvil in Hiisi Base (1537, 6045)   - Difficulty: Medium - Requires reaching Hiisi Base
    - Prerequisites: Must have Hauen Leukaluu wand
    - Notes: Anvil is at bottom right of Hiisi Base biome. Wand is destroyed but unlocks Summon Fish spell permanently
    - Reward: Summon Fish spell (permanent unlock)
    - Hint to find next step: The spell is learned. But bone can sing. Perhaps strings and bone together make something new.
 
 7. **Obtain Kantele**
-   - Location: Kantele (-1633, -791) - In Giant Tree [See: Items → Kantele]
-   - Difficulty: Medium - Requires exploration
+   - Location: Kantele (-1633, -791) - In Giant Tree   - Difficulty: Medium - Requires exploration
    - Prerequisites: None
    - Notes: Musical instrument found in Giant Tree near starting area
    - Hint to find next step: Strings found. But to merge them with bone, you need bone again. The altar remembers.
@@ -434,23 +376,20 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
    - Hint to find next step: Second bone obtained. Perhaps bone and strings together create something neither could alone.
 
 9. **Transport Both Items to Anvil and Place Them**
-    - Location: Anvil in Hiisi Base (1537, 6045) [See: Structures → Anvil]
-    - Difficulty: Medium
+    - Location: Anvil in Hiisi Base (1537, 6045)    - Difficulty: Medium
     - Prerequisites: Must have Hauen Leukaluu and Kantele
     - Notes: Both items needed for combination. Creates Kantele Hauen Leukaluusta wand containing Sea of Swamp spell. **WARNING:** All spells on both wands are lost during combination
     - Reward: Sea of Swamp spell (in the created wand, permanent unlock)
     - Hint to find next step: The sea waits in your hand. Below, where wizards gather, a master dwells. Perhaps he needs to hear the song.
 
 10. **Transport to Master of Masters and Use Sea of Swamp to Drown Him**
-    - Location: Master of Masters (12573, 15178) - Wizards' Den area [See: Bosses → Mestarien mestari] [See: Biomes → Wizards' Den]
-    - Difficulty: Very High - Extremely dangerous area, Master of Masters is powerful boss
+    - Location: Master of Masters (12573, 15178) - Wizards' Den area    - Difficulty: Very High - Extremely dangerous area, Master of Masters is powerful boss
     - Prerequisites: Must have Sea of Swamp spell
     - Notes: Wizards' Den contains powerful enemies. Cast Sea of Swamp to create swamp, drown the Master of Masters. Method popularized by Twitch streamer LetsSufferTogether
     - Hint to find next step: When the master falls, something changes. Perhaps wands remember who commands them.
 
 11. **Defeat Master of Masters**
-    - Location: Master of Masters (12573, 15178) [See: Bosses → Mestarien mestari]
-    - Difficulty: Very High
+    - Location: Master of Masters (12573, 15178)    - Difficulty: Very High
     - Prerequisites: Must have drowned Master of Masters
     - Notes: Upon death, drops and unlocks Wand Homing spell permanently
     - Reward: Wand Homing spell (permanent unlock)
@@ -472,7 +411,7 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 
 **Description:** A quest involving obtaining the Crystal Key from the High Alchemist and charging it at four Music Machines to unlock the Coral Chest, granting access to powerful divide/multiply spells for future playthroughs.
 
-**Source:** [The Coral Crystal Key Quest](https://noita.wiki.gg/wiki/The_Coral_Crystal_Key_Quest)
+**Source:** The Coral Crystal Key Quest
 
 **Prerequisites:**
 - Ability to defeat High Alchemist
@@ -481,57 +420,47 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 - Access to Eastern Cloudscape (above Pyramid)
 
 **Discovery Clues:**
-- **Research Notes** book in Pyramid (next to Kolmisilmän koipi) provides clue: "One in the pond One in the tree One on the ledge One under the sun" - refers to Music Machine locations [See: Books → Research Notes] [See: Bosses → Kolmisilmän Koipi]
-- **A Cunning Contraption** book (dropped by Mestarien mestari) hints: "The secret lies in music! The key to the heavens' lock is borne from music all over the world" [See: Books → A Cunning Contraption] [See: Bosses → Mestarien mestari]
-- **Book of the Key** (in Gourd Cave) states: "One home in the sky, beyond the invisible steps" - refers to Coral Chest location [See: Books → Book of the Key] [See: Structures → Gourd Cave]
-
+- **Research Notes** book in Pyramid (next to Kolmisilmän koipi) provides clue: "One in the pond One in the tree One on the ledge One under the sun" - refers to Music Machine locations- **A Cunning Contraption** book (dropped by Mestarien mestari) hints: "The secret lies in music! The key to the heavens' lock is borne from music all over the world"- **Book of the Key** (in Gourd Cave) states: "One home in the sky, beyond the invisible steps" - refers to Coral Chest location
 **Step 0 - Quest Discovery:** Where ancient knowledge sleeps, guarded by one who has mastered the highest art, a key waits. Seek an abandoned laboratory where experiments still whisper.
 
 **Steps:**
 
 1. **Defeat High Alchemist (Ylialkemisti)**
-   - Location: Ancient Laboratory, High Alchemist (-4840, 851) [See: Bosses → Ylialkemisti]
-   - Difficulty: Very High - High Alchemist is a powerful boss
-   - Prerequisites: Must have reached Ancient Laboratory (west of Dark Cave) [See: Biomes → Additional Biome Information → Ancient Laboratory]
-   - Notes: High Alchemist guards the Abandoned Alchemy Lab. Drops Crystal Key upon defeat. Key must be picked up and carried. Can be thrown/kicked for transport
+   - Location: Ancient Laboratory, High Alchemist (-4840, 851)   - Difficulty: Very High - High Alchemist is a powerful boss
+   - Prerequisites: Must have reached Ancient Laboratory (west of Dark Cave)   - Notes: High Alchemist guards the Abandoned Alchemy Lab. Drops Crystal Key upon defeat. Key must be picked up and carried. Can be thrown/kicked for transport
    - Reward: Crystal Key
    - Hint to find next step: Key in hand. Four listeners await - one beneath pond waters.
-   - Hint to find book: Where ancient stone reaches skyward, near the three-eyed guardian, research notes wait. They speak in riddles of four places. ([See: Books → Research Notes](../noita-data.md#books) - "One in the pond One in the tree One on the ledge One under the sun")
+   - Hint to find book: Where ancient stone reaches skyward, near the three-eyed guardian, research notes wait. They speak in riddles of four places. ( - "One in the pond One in the tree One on the ledge One under the sun")
 
 2. **Charge Key at Pond Music Machine**
-   - Location: Music Box (Pond) (2799, 282) - At bottom of pond in Forest, east of Mountain [See: Items → Music Box (Pond)]
-   - Difficulty: Easy-Medium - Requires exploration and activating machine
+   - Location: Music Box (Pond) (2799, 282) - At bottom of pond in Forest, east of Mountain   - Difficulty: Easy-Medium - Requires exploration and activating machine
    - Prerequisites: Must have Crystal Key
-   - Notes: **Research Notes** clue: "One in the pond" - This is the pond location [See: Books → Research Notes]. Drop key near machine, kick machine to play music. Message appears: "The key listens... It's taking in the music."
+   - Notes: **Research Notes** clue: "One in the pond" - This is the pond location. Drop key near machine, kick machine to play music. Message appears: "The key listens... It's taking in the music."
    - Hint to find next step: The key has heard one song. Three more places sing. Perhaps where trees reach skyward.
 
 3. **Charge Key at Tree Music Machine**
-   - Location: Music Box (Tree) (-1919, -1366) - On top of Giant Tree [See: Items → Music Box (Tree)]
-   - Difficulty: Easy-Medium - Requires reaching tree top
+   - Location: Music Box (Tree) (-1919, -1366) - On top of Giant Tree   - Difficulty: Easy-Medium - Requires reaching tree top
    - Prerequisites: Must have Crystal Key
-   - Notes: **Research Notes** clue: "One in the tree" - Giant Tree near starting area [See: Books → Research Notes]. Drop key near machine, kick machine. Key continues charging
+   - Notes: **Research Notes** clue: "One in the tree" - Giant Tree near starting area. Drop key near machine, kick machine. Key continues charging
    - Hint to find next step: Two songs learned. Two more await. Perhaps where ice and water meet, where stone rises from water.
 
 4. **Charge Key at Island Music Machine**
-   - Location: Music Box (Lake) (-12188, -385) - On Lake Island, atop pillar in Snowy Wasteland [See: Items → Music Box (Lake)] [See: Structures → Lake Island]
-   - Difficulty: Medium-High - Requires reaching Lake Island
+   - Location: Music Box (Lake) (-12188, -385) - On Lake Island, atop pillar in Snowy Wasteland   - Difficulty: Medium-High - Requires reaching Lake Island
    - Prerequisites: Must have Crystal Key
-   - Notes: **Research Notes** clue: "One on the ledge" - Refers to pillar/ledge near Lake [See: Books → Research Notes]. Drop key near machine, kick machine. Key continues charging
+   - Notes: **Research Notes** clue: "One on the ledge" - Refers to pillar/ledge near Lake. Drop key near machine, kick machine. Key continues charging
    - Hint to find next step: Three songs known. One remains. Perhaps where sun beats down, where ancient stone sleeps.
 
 5. **Charge Key at Desert Music Machine**
-    - Location: Music Box (Desert) (14678, -35) - Far right of Pyramid, resting on sand [See: Items → Music Box (Desert)]
-    - Difficulty: Medium - Requires reaching Desert area
+    - Location: Music Box (Desert) (14678, -35) - Far right of Pyramid, resting on sand    - Difficulty: Medium - Requires reaching Desert area
     - Prerequisites: Must have Crystal Key
-    - Notes: **Research Notes** clue: "One under the sun" - Desert location [See: Books → Research Notes]. Drop key near machine, kick machine. After all four, message changes to: "The key has taken in the full song. It's ready."
+    - Notes: **Research Notes** clue: "One under the sun" - Desert location. Drop key near machine, kick machine. After all four, message changes to: "The key has taken in the full song. It's ready."
     - Hint to find next step: The key sings full now. The book speaks of a home in sky, beyond invisible steps. Perhaps coral waits there.
-    - Hint to find book: In the western sky, where gourd brings refreshment, a cave holds words. The book speaks of homes - one in sky, one below. ([See: Books → Book of the Key](../noita-data.md#books) - "Once the Key has listened to you, bring it home... One home in the sky, beyond the invisible steps... One home in the underworld, below seas of magma...")
+    - Hint to find book: In the western sky, where gourd brings refreshment, a cave holds words. The book speaks of homes - one in sky, one below. ( - "Once the Key has listened to you, bring it home... One home in the sky, beyond the invisible steps... One home in the underworld, below seas of magma...")
 
 6. **Transport Key to Eastern Cloudscape and Unlock Coral Chest**
-    - Location: Eastern Cloudscape above Pyramid - Coral Chest (11519, -4806) [See: Items → Coral Chest]
-    - Difficulty: Medium-High - Requires reaching cloud area above Pyramid
+    - Location: Eastern Cloudscape above Pyramid - Coral Chest (11519, -4806)    - Difficulty: Medium-High - Requires reaching cloud area above Pyramid
     - Prerequisites: Must have fully charged Crystal Key
-    - Notes: **Book of the Key** states: "One home in the sky, beyond the invisible steps" - Refers to this location [See: Books → Book of the Key]. Throw charged key at Coral Chest to unlock. Unlocks permanently: Divide By 2, Divide By 3, Divide By 4, Octuple Spell, Myriad Spell
+    - Notes: **Book of the Key** states: "One home in the sky, beyond the invisible steps" - Refers to this location. Throw charged key at Coral Chest to unlock. Unlocks permanently: Divide By 2, Divide By 3, Divide By 4, Octuple Spell, Myriad Spell
 
 **Rewards:**
 - Divide By 2 spell (permanent unlock)
@@ -543,11 +472,7 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 **Difficulty Rating:** Very High
 
 **References:**
-- **Research Notes** book in Pyramid provides Music Machine location clues [See: Books → Research Notes]
-- **A Cunning Contraption** book hints at music-based quest [See: Books → A Cunning Contraption]
-- **Book of the Key** provides Coral Chest location clue [See: Books → Book of the Key]
-- **Tome of Essences** book is found next to Coral Chest [See: Books → Tome of Essences] [See: Items → Coral Chest]
-
+- **Research Notes** book in Pyramid provides Music Machine location clues- **A Cunning Contraption** book hints at music-based quest- **Book of the Key** provides Coral Chest location clue- **Tome of Essences** book is found next to Coral Chest
 **Notes:**
 - If Coral Chest has been opened in previous run, random selection of spells drops instead of all
 - Only one Coral Chest can be opened per run due to Music Machine limitations
@@ -559,7 +484,7 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 
 **Description:** A quest involving obtaining the Crystal Key from the High Alchemist and empowering it by playing two specific melodies using note spells, then using it to unlock the Dark Chest in Hell, granting access to powerful transformation spells.
 
-**Source:** [The Dark Crystal Key Quest](https://noita.wiki.gg/wiki/The_Dark_Crystal_Key_Quest)
+**Source:** The Dark Crystal Key Quest
 
 **Prerequisites:**
 - Ability to defeat High Alchemist
@@ -570,43 +495,35 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 - Ability to survive Hell
 
 **Discovery Clues:**
-- **Alchemist's Note** book (in Gourd Cave) hints: "I have locked my research so that only those with real understanding can reach it" - refers to Alchemist's Notebook [See: Books → Alchemist's Note] [See: Structures → Gourd Cave]
-- **Book of the Key** (in Gourd Cave) states: "One home in the underworld, below seas of magma" - refers to Dark Chest location [See: Books → Book of the Key] [See: Structures → Gourd Cave]
-- **A Cunning Contraption** book hints at music-based quest [See: Books → A Cunning Contraption]
-- Alchemist's Notebook contains the exact note sequences needed
+- **Alchemist's Note** book (in Gourd Cave) hints: "I have locked my research so that only those with real understanding can reach it" - refers to Alchemist's Notebook- **Book of the Key** (in Gourd Cave) states: "One home in the underworld, below seas of magma" - refers to Dark Chest location- **A Cunning Contraption** book hints at music-based quest- Alchemist's Notebook contains the exact note sequences needed
 
 **Step 0 - Quest Discovery:** As above, so below. The key that opens heaven has a twin for the underworld. Two melodies must it learn - written in the alchemist's hidden research. Seek strings and wind, then sing to the key before descending beneath seas of magma.
 
 **Steps:**
 
 1. **Defeat High Alchemist (Ylialkemisti)**
-   - Location: Ancient Laboratory, High Alchemist (-4840, 851) [See: Bosses → Ylialkemisti]
-   - Difficulty: Very High - High Alchemist is a powerful boss
-   - Prerequisites: Must have reached Ancient Laboratory (west of Dark Cave) [See: Biomes → Additional Biome Information → Ancient Laboratory]
-   - Notes: Same as Coral Crystal Key Quest - High Alchemist drops Crystal Key. Key must be picked up and carried
+   - Location: Ancient Laboratory, High Alchemist (-4840, 851)   - Difficulty: Very High - High Alchemist is a powerful boss
+   - Prerequisites: Must have reached Ancient Laboratory (west of Dark Cave)   - Notes: Same as Coral Crystal Key Quest - High Alchemist drops Crystal Key. Key must be picked up and carried
    - Reward: Crystal Key
    - Hint to find next step: Key in hand. Seek the notebook hidden where fungus overtakes stone.
-   - Hint to find book: In the western sky, where gourd brings refreshment, a note waits. It speaks of locked research and understanding. ([See: Books → Alchemist's Note](../noita-data.md#books) - "Here I'm safe. I am safe. I left the others behind. And I have locked my research so that only those with real understanding can reach it. I should not worry.")
+   - Hint to find book: In the western sky, where gourd brings refreshment, a note waits. It speaks of locked research and understanding. ( - "Here I'm safe. I am safe. I left the others behind. And I have locked my research so that only those with real understanding can reach it. I should not worry.")
 
 2. **Locate and Read Alchemist's Notebook**
-   - Location: Overgrown Cavern (24, 2) - East of center of Overgrown Cavern [See: Biomes → Overgrown Cavern]
-   - Difficulty: Medium-High - Overgrown Cavern is dangerous
+   - Location: Overgrown Cavern (24, 2) - East of center of Overgrown Cavern   - Difficulty: Medium-High - Overgrown Cavern is dangerous
    - Prerequisites: Access to Overgrown Cavern
-   - Notes: **Alchemist's Note** book hints at this location. Notebook contains two melodies: Kantele notes and Huilu notes [See: Books → Alchemist's Note]. Contains exact note sequences:
+   - Notes: **Alchemist's Note** book hints at this location. Notebook contains two melodies: Kantele notes and Huilu notes. Contains exact note sequences:
      - Kantele: G D# G E A
      - Huilu: E C B G# F
    - Hint to find next step: Melodies known. Seek first the strings hidden in the great tree.
 
 3. **Obtain Kantele**
-   - Location: Kantele (-1633, -791) - In Giant Tree [See: Items → Kantele]
-   - Difficulty: Medium - Requires exploration
+   - Location: Kantele (-1633, -791) - In Giant Tree   - Difficulty: Medium - Requires exploration
    - Prerequisites: None
    - Notes: Musical instrument needed for first melody
    - Hint to find next step: Strings found. Now seek wind - in the western sky where gourd brings refreshment.
 
 4. **Obtain Huilu (Ocarina)**
-   - Location: Ocarina (-9984, -6418) - In Western Cloudscape cave [See: Items → Ocarina] [See: Structures → Gourd Cave]
-   - Difficulty: Medium-High - Requires reaching cloud area
+   - Location: Ocarina (-9984, -6418) - In Western Cloudscape cave   - Difficulty: Medium-High - Requires reaching cloud area
    - Prerequisites: None
    - Notes: Musical instrument needed for second melody. Found in cave with Refreshing Gourd
    - Hint to find next step: Wind found. Master the notes through spells or instruments themselves, then teach the key to sing.
@@ -631,13 +548,12 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
    - Prerequisites: Must have Huilu (or Huilu note spells), Crystal Key, and have played first melody
    - Notes: Play sequence: E C B G# F. Order doesn't matter - can play Huilu first if desired. After both songs, message changes to: "The key begins to whisper! 'I can give you so much in exchange for...'"
    - Hint to find next step: The key whispers now. Two songs have changed it. The book speaks of a home below, beneath seas of fire.
-   - Hint to find book: In the western sky, where gourd brings refreshment, a book waits. It speaks of homes - one in sky, one below, beneath seas of fire. ([See: Books → Book of the Key](../noita-data.md#books) - "Once the Key has listened to you, bring it home... One home in the sky, beyond the invisible steps... One home in the underworld, below seas of magma...")
+   - Hint to find book: In the western sky, where gourd brings refreshment, a book waits. It speaks of homes - one in sky, one below, beneath seas of fire. ( - "Once the Key has listened to you, bring it home... One home in the sky, beyond the invisible steps... One home in the underworld, below seas of magma...")
 
 8. **Transport Empowered Key to The Work (Hell) and Unlock Dark Chest**
-    - Location: Dark Chest (3840, 15649) - In The Work (Hell), deep underground below The Vault [See: Items → Dark Chest] [See: Biomes → The Work (Hell)] [See: Biomes → The Vault]
-    - Difficulty: Very High - Hell is extremely dangerous, requires surviving Hell and finding chest
+    - Location: Dark Chest (3840, 15649) - In The Work (Hell), deep underground below The Vault    - Difficulty: Very High - Hell is extremely dangerous, requires surviving Hell and finding chest
     - Prerequisites: Must have empowered Crystal Key
-    - Notes: **Book of the Key** states: "One home in the underworld, below seas of magma" - Refers to Hell location [See: Books → Book of the Key]. Hell contains extreme heat, lava, and powerful enemies. Throw empowered key at Dark Chest to unlock. Unlocks permanently: Spells To Nukes, Spells To Giga Sawblades, Spells To Magic Missiles, Spells To Death Crosses, Spells To Black Holes, Spells To Acid, Copy Trail
+    - Notes: **Book of the Key** states: "One home in the underworld, below seas of magma" - Refers to Hell location. Hell contains extreme heat, lava, and powerful enemies. Throw empowered key at Dark Chest to unlock. Unlocks permanently: Spells To Nukes, Spells To Giga Sawblades, Spells To Magic Missiles, Spells To Death Crosses, Spells To Black Holes, Spells To Acid, Copy Trail
 
 **Rewards:**
 - Spells To Nukes (permanent unlock)
@@ -651,12 +567,7 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 **Difficulty Rating:** Extreme
 
 **References:**
-- **Alchemist's Note** book hints at Alchemist's Notebook location [See: Books → Alchemist's Note]
-- **Book of the Key** provides Dark Chest location clue [See: Books → Book of the Key]
-- **A Cunning Contraption** book hints at music-based quest [See: Books → A Cunning Contraption]
-- **Book of the Jewel** is found next to Dark Chest [See: Books → Book of the Jewel] [See: Items → Dark Chest]
-
-**Notes:**
+- **Alchemist's Note** book hints at Alchemist's Notebook location- **Book of the Key** provides Dark Chest location clue- **A Cunning Contraption** book hints at music-based quest- **Book of the Jewel** is found next to Dark Chest**Notes:**
 - If Dark Chest has been opened in previous run, random selection of spells drops instead of all
 - Multiple Dark Chests can be opened by obtaining additional keys in Parallel Worlds
 - Melody order doesn't matter - can play Huilu first, then Kantele
@@ -664,18 +575,6 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 
 ---
 
-## Quest Difficulty Summary
-
-| Quest | Difficulty | Prerequisites | Key Items/Spells Needed |
-|-------|-----------|---------------|-------------------------|
-| The End of Everything Quest | High | Snowy Depths access, Hiisi Base access | Broken Spell → Summon Portal |
-| The Cessation Quest | Very High | Sky access, potion knowledge | Mimicium, Sea of Mimicium, Touch of Grass |
-| Advanced Guide: Sun Quest | Extreme | Multiple biomes, Tripping effect, Paha Silmä | Auringonsiemen, Four Essences, Moon access |
-| Advanced Guide: Fish Quest | High | Mountain Altar access, Anvil access | Fish, Hauen Leukaluu, Kantele |
-| The Coral Crystal Key Quest | Very High | High Alchemist defeat | Crystal Key, Four Music Machines |
-| The Dark Crystal Key Quest | Extreme | High Alchemist defeat, Hell access | Crystal Key, Kantele, Huilu, Alchemist's Notebook |
-
----
 
 ## General Tips
 
@@ -691,13 +590,6 @@ Throughout this document, you'll find cross-references to `noita-data.md` that p
 
 ---
 
-## Additional Resources
-
-- [Noita Wiki](https://noita.wiki.gg/)
-- [NoitaMap](https://noitamap.com/) - Interactive map with all locations
-- Coordinate data from: `noita-quests/noita-data.md`
-- Book locations and clues: See Books section in `noita-data.md`
-- Emerald Tablet locations: See Emerald Tablets section in `noita-data.md`
 # Noita Quests - Points of Interest
 
 This document contains all points of interest collected from the NoitaMap repository data files.
@@ -749,14 +641,6 @@ This document contains all points of interest collected from the NoitaMap reposi
 | Ocarina | -20, -13 | 1 × 1 | Location of the Ocarina (Huilu) instrument. | Surface location, quest item |
 | Robotic Egg | -10, 29 | 1 × 1 | Special location containing a robotic egg. | Surface location |
 
-### Biome Modifiers
-
-Some biomes have special modifiers that affect gameplay:
-
-- **Humid** (Fungal Caverns): Projectiles decelerate, affecting combat
-- **Hot** (Desert, Lava Lake): Water evaporates rapidly, materials may ignite, certain solids melt into lava
-- **Cold** (Snowy Depths, Frozen Vault): Ice hazards, cold damage potential
-
 ### Additional Biome Information
 
 **Ancient Laboratory** (not in coordinate data, but important):
@@ -777,7 +661,6 @@ Some biomes have special modifiers that affect gameplay:
 - Hazards: Default "Hot" biome modifier, water evaporates into steam
 - Points of Interest: Giant Skull, Pyramid, Sandcave, Essence Eater, Celestial Scale, Music Machine
 
-**Source:** [Biomes Wiki](https://noita.wiki.gg/wiki/Biomes)
 
 ### Biome Relative Positioning
 
@@ -824,22 +707,6 @@ The main path biomes are arranged vertically, progressing downward:
 - Adjacent to: Temple of the Art (-9, 21) - Distance: ~21.0 units (west)
 - High-tier area, isolated from main path
 
-#### Distance Matrix (Key Biomes)
-
-| Biome A | Biome B | Distance | Notes |
-|---------|---------|----------|-------|
-| Mines | Coal Pits | ~3.2 | Directly connected (main path) |
-| Coal Pits | Fungal Caverns | ~3.0 | Side biome, west |
-| Coal Pits | Snowy Depths | ~3.2 | Directly connected (main path) |
-| Snowy Depths | Hiisi Base | ~4.1 | Directly connected (main path) |
-| Hiisi Base | Lukki Lair | ~8.1 | Side biome, west |
-| Hiisi Base | Underground Jungle | ~3.2 | Directly connected (main path) |
-| Underground Jungle | Lukki Lair | ~7.1 | Connected (game connection) |
-| Underground Jungle | The Vault | ~4.1 | Directly connected (main path) |
-| The Vault | Temple of the Art | ~5.0 | Directly connected (main path) |
-| Overgrown Cavern | Power Plant | ~14.0 | Directly below |
-| Power Plant | Wizards' Den | ~13.4 | Adjacent high-tier area |
-
 #### Spatial Clusters
 
 **West Cluster** (Main Path):
@@ -861,22 +728,22 @@ The main path biomes are arranged vertically, progressing downward:
 
 | Name | Aliases | Location (x, y) | Maps | Wiki | Quest References |
 |------|---------|----------------|------|------|------------------|
-| Kivi | Rock Boss, Stone Boss, Sky Boss | 7375, -4539 | regular-main-branch, new-game-plus-main-branch, regular-beta, apotheosis-beta-branch, nightmare-main-branch | [Wiki](https://noita.wiki.gg/wiki/Kivi) | [Cessation Quest](noita-quests.md#bonus-kivi-temple) |
-| Kolmisilmän Koipi | Pyramid Boss, Three-Eye's Legs | 9984, -786 | regular-main-branch, regular-beta, apotheosis-beta-branch, nightmare-main-branch | [Wiki](https://noita.wiki.gg/wiki/Kolmisilm%C3%A4n_koipi) | [Sun Quest](noita-quests.md#phase-3-finding-and-awakening-the-seed), [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest) |
-| Syväolento | Leviathan, Creature of the Deep | -14024, 9994 | regular-main-branch, regular-beta, new-game-plus-main-branch, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Syv%C3%A4olento) | - |
-| Veska, Molari, Mokke, Seula | Door boss, Gate Guardian, Triangle boss | 2837, 11562 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Gate_Guardian) | - |
-| Suomuhauki | Dragon, Scale Pike | 2347, 7444 | regular-main-branch, regular-beta, apotheosis-beta-branch, nightmare-main-branch | [Wiki](https://noita.wiki.gg/wiki/Suomuhauki) | - |
-| Limatoukka | Tiny, Slime Maggot, Slime Caterpillar | 14904, 16428 | regular-main-branch, regular-beta, new-game-plus-main-branch, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Limatoukka) | - |
-| Kolmisilmän sydän | Meat Boss, Three-Eye's Heart | 6667, 8448 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Kolmisilm%C3%A4n_syd%C3%A4n) | - |
-| Ylialkemisti | Alchemist Boss, High Alchemist | -4840, 851 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Ylialkemisti) | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest), [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
-| Kolmisilmä | Kolmi, Three-Eye | 3556, 13026 | regular-main-branch, regular-beta, new-game-plus-main-branch, apotheosis-beta-branch, nightmare-main-branch | [Wiki](https://noita.wiki.gg/wiki/Kolmisilm%C3%A4) | - |
-| Kolmisilmän silmä | Mecha Kolmi, Three-Eye's Eye | 13987, 11123 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Kolmisilm%C3%A4n_silm%C3%A4) | - |
-| Toveri | Friend Boss, Friend | 25360, 4341 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Toveri) | - |
-| Toveri (Apotheosis) | Friend Boss, Friend | 8454, 5971 | apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Toveri) | - |
-| Mestarien mestari | The Master of Masters, Grand Master, Wizard Boss | 12573, 15178 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Mestarien_mestari) | [Fish Quest](noita-quests.md#advanced-guide-fish-quest), [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest), [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
-| Unohdettu | The Forgotten, Ghost Boss | -11515, 13123 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Unohdettu) | - |
-| Sauvojen tuntija | Bridge Boss, Connoisseur of Wands, Squid Boss, Pit Boss, Wand Boss | 4165, 889 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Sauvojen_tuntija) | - |
-| Tapion vasalli | Deer Boss, Tapio's Vassal, Island Boss | -13670, 134 | regular-main-branch, regular-beta, new-game-plus-main-branch, apotheosis-beta-branch, nightmare-main-branch | [Wiki](https://noita.wiki.gg/wiki/Tapion_vasalli) | - |
+| Kivi | Rock Boss, Stone Boss, Sky Boss | 7375, -4539 | regular-main-branch, new-game-plus-main-branch, regular-beta, apotheosis-beta-branch, nightmare-main-branch | Wiki | Cessation Quest |
+| Kolmisilmän Koipi | Pyramid Boss, Three-Eye's Legs | 9984, -786 | regular-main-branch, regular-beta, apotheosis-beta-branch, nightmare-main-branch | Wiki | Sun Quest, Coral Crystal Key Quest |
+| Syväolento | Leviathan, Creature of the Deep | -14024, 9994 | regular-main-branch, regular-beta, new-game-plus-main-branch, apotheosis-beta-branch | Wiki | - |
+| Veska, Molari, Mokke, Seula | Door boss, Gate Guardian, Triangle boss | 2837, 11562 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki | - |
+| Suomuhauki | Dragon, Scale Pike | 2347, 7444 | regular-main-branch, regular-beta, apotheosis-beta-branch, nightmare-main-branch | Wiki | - |
+| Limatoukka | Tiny, Slime Maggot, Slime Caterpillar | 14904, 16428 | regular-main-branch, regular-beta, new-game-plus-main-branch, apotheosis-beta-branch | Wiki | - |
+| Kolmisilmän sydän | Meat Boss, Three-Eye's Heart | 6667, 8448 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki | - |
+| Ylialkemisti | Alchemist Boss, High Alchemist | -4840, 851 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki | Coral Crystal Key Quest, Dark Crystal Key Quest |
+| Kolmisilmä | Kolmi, Three-Eye | 3556, 13026 | regular-main-branch, regular-beta, new-game-plus-main-branch, apotheosis-beta-branch, nightmare-main-branch | Wiki | - |
+| Kolmisilmän silmä | Mecha Kolmi, Three-Eye's Eye | 13987, 11123 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki | - |
+| Toveri | Friend Boss, Friend | 25360, 4341 | regular-main-branch, regular-beta | Wiki | - |
+| Toveri (Apotheosis) | Friend Boss, Friend | 8454, 5971 | apotheosis-beta-branch | Wiki | - |
+| Mestarien mestari | The Master of Masters, Grand Master, Wizard Boss | 12573, 15178 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki | Fish Quest, Coral Crystal Key Quest, Dark Crystal Key Quest |
+| Unohdettu | The Forgotten, Ghost Boss | -11515, 13123 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki | - |
+| Sauvojen tuntija | Bridge Boss, Connoisseur of Wands, Squid Boss, Pit Boss, Wand Boss | 4165, 889 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki | - |
+| Tapion vasalli | Deer Boss, Tapio's Vassal, Island Boss | -13670, 134 | regular-main-branch, regular-beta, new-game-plus-main-branch, apotheosis-beta-branch, nightmare-main-branch | Wiki | - |
 
 ## Hidden Messages
 
@@ -899,29 +766,29 @@ The main path biomes are arranged vertically, progressing downward:
 
 | Name | Location (x, y) | Maps | Wiki | Quest References |
 |------|----------------|------|------|------------------|
-| Milk | 2437, -4488 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | [Wiki](https://noita.wiki.gg/wiki/Milk) | - |
-| Beer | 7623, -4348 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | [Wiki](https://noita.wiki.gg/wiki/Beer) | - |
-| Pillars | -1572, -1640 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, purgatory, apotheosis, apotheosis-new-game-plus, apotheosis-tuonela, noitavania, noitavania-new-game-plus, alternate-biomes | [Wiki](https://noita.wiki.gg/wiki/Achievement_Pillars) | - |
-| Ocarina | -9984, -6418 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, purgatory, apotheosis, apotheosis-new-game-plus, apotheosis-tuonela, alternate-biomes | [Wiki](https://noita.wiki.gg/wiki/Huilu) | [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
-| Kantele | -1633, -791 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, purgatory, apotheosis, apotheosis-new-game-plus, apotheosis-tuonela, noitavania, noitavania-new-game-plus, alternate-biomes | [Wiki](https://noita.wiki.gg/wiki/Kantele) | [Fish Quest](noita-quests.md#advanced-guide-fish-quest), [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
-| Evil Eye | -2434, -203 | apotheosis-beta-branch, regular-main-branch, regular-beta, purgatory, apotheosis, apotheosis-tuonela, noitavania, noitavania-new-game-plus, alternate-biomes | [Wiki](https://noita.wiki.gg/wiki/Paha_Silm%C3%A4) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Dark Chest | 3840, 15649 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, apotheosis, apotheosis-new-game-plus, noitavania, noitavania-new-game-plus, alternate-biomes | [Wiki](https://noita.wiki.gg/wiki/Crystal_Key#Dark_Chest) | [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
-| Coral Chest | 11519, -4806 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, apotheosis, apotheosis-new-game-plus, noitavania, noitavania-new-game-plus, alternate-biomes | [Wiki](https://noita.wiki.gg/wiki/Crystal_Key#Coral_Chest) | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest), [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Music Stone | -3342, 3346 | apotheosis-beta-branch, regular-main-branch, regular-beta, apotheosis, apotheosis-new-game-plus, alternate-biomes | [Wiki](https://noita.wiki.gg/wiki/Kuulokivi) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Music Box (Pond) | 2799, 282 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Music_Machine) | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest) |
-| Music Box (Lake) | -12188, -385 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Music_Machine) | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest) |
-| Music Box (Tree) | -1919, -1366 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Music_Machine) | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest) |
-| Music Box (Desert) | 14678, -35 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Music_Machine) | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest) |
-| Karl | 3239, 2400 | apotheosis-beta-branch, regular-main-branch, regular-beta, apotheosis, apotheosis-new-game-plus, noitavania, noitavania-new-game-plus, alternate-biomes | [Wiki](https://noita.wiki.gg/wiki/Racetrack) | - |
-| Essence Of Spirits | -14081, 13567 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Spirits) | - |
-| Essence Of Air | -13056, -5377 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Air) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Essence Of Fire | -14062, 370 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Fire) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Essence Of Water | -5376, 16640 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Water) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Essence Of Earth | 16128, -1792 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Earth) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Essence Of Earth (Apotheosis) | 23808, -1793 | apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Earth) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Rainbow Trail Spell | -14002, -2860 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Rainbow_Trail) | - |
-| Essence Eater (Desert) | 12569, 16 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essence_Eater) | - |
-| Essence Eater (Snow Wasteland) | -6884, -169 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essence_Eater) | - |
+| Milk | 2437, -4488 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | - |
+| Beer | 7623, -4348 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | - |
+| Pillars | -1572, -1640 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, purgatory, apotheosis, apotheosis-new-game-plus, apotheosis-tuonela, noitavania, noitavania-new-game-plus, alternate-biomes | Wiki | - |
+| Ocarina | -9984, -6418 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, purgatory, apotheosis, apotheosis-new-game-plus, apotheosis-tuonela, alternate-biomes | Wiki | Dark Crystal Key Quest |
+| Kantele | -1633, -791 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, purgatory, apotheosis, apotheosis-new-game-plus, apotheosis-tuonela, noitavania, noitavania-new-game-plus, alternate-biomes | Wiki | Fish Quest, Dark Crystal Key Quest |
+| Evil Eye | -2434, -203 | apotheosis-beta-branch, regular-main-branch, regular-beta, purgatory, apotheosis, apotheosis-tuonela, noitavania, noitavania-new-game-plus, alternate-biomes | Wiki | Sun Quest |
+| Dark Chest | 3840, 15649 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, apotheosis, apotheosis-new-game-plus, noitavania, noitavania-new-game-plus, alternate-biomes | Wiki | Dark Crystal Key Quest |
+| Coral Chest | 11519, -4806 | apotheosis-beta-branch, regular-main-branch, new-game-plus-main-branch, nightmare-main-branch, regular-beta, apotheosis, apotheosis-new-game-plus, noitavania, noitavania-new-game-plus, alternate-biomes | Wiki | Coral Crystal Key Quest, Sun Quest |
+| Music Stone | -3342, 3346 | apotheosis-beta-branch, regular-main-branch, regular-beta, apotheosis, apotheosis-new-game-plus, alternate-biomes | Wiki | Sun Quest |
+| Music Box (Pond) | 2799, 282 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Coral Crystal Key Quest |
+| Music Box (Lake) | -12188, -385 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Coral Crystal Key Quest |
+| Music Box (Tree) | -1919, -1366 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Coral Crystal Key Quest |
+| Music Box (Desert) | 14678, -35 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Coral Crystal Key Quest |
+| Karl | 3239, 2400 | apotheosis-beta-branch, regular-main-branch, regular-beta, apotheosis, apotheosis-new-game-plus, noitavania, noitavania-new-game-plus, alternate-biomes | Wiki | - |
+| Essence Of Spirits | -14081, 13567 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Essence Of Air | -13056, -5377 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Essence Of Fire | -14062, 370 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Essence Of Water | -5376, 16640 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Essence Of Earth | 16128, -1792 | regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Essence Of Earth (Apotheosis) | 23808, -1793 | apotheosis-beta-branch | Wiki | Sun Quest |
+| Rainbow Trail Spell | -14002, -2860 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Essence Eater (Desert) | 12569, 16 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Essence Eater (Snow Wasteland) | -6884, -169 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
 
 ## Orb Areas (New Game Plus)
 
@@ -943,87 +810,87 @@ The main path biomes are arranged vertically, progressing downward:
 
 | Name | Text | Location (x, y) | Maps | Wiki |
 |------|------|----------------|------|------|
-| Orb: Earthquake | Secrets of Earth's anger have been unlocked to you | 9983, -1222 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Sea of Lava | Secrets of endless lava have been unlocked to you | 780, -1088 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Summon Tentacle | Secrets of otherworldly life have been unlocked to you | -9985, 2883 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Nuke | Secrets of utter destruction have been unlocked to you | 3472, 1879 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Necromancy | Secrets of Undeath have been unlocked to you | 9982, 2883 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Holy Bomb | Secrets of fire and brimstone have been unlocked to you | -4353, 3912 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Spiral Shot | Secrets of the Spiral have been unlocked to you | -3841, 10052 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Thundercloud | Secrets of the stormy skies have been unlocked to you | 4350, 836 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Fireworks! | Secrets of jubilation have been unlocked to you | -256, 16208 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Summon Deercoy, Flock of Ducks, and Worm Launcher | Secrets of hidden danger have been unlocked to you | -8960, 14666 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
-| Orb: Cement | Secrets of rebuilding have been unlocked to you | 10495, 16195 | regular-main-branch, regular-beta, apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/Orb_of_True_Knowledge) |
+| Orb: Earthquake | Secrets of Earth's anger have been unlocked to you | 9983, -1222 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Sea of Lava | Secrets of endless lava have been unlocked to you | 780, -1088 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Summon Tentacle | Secrets of otherworldly life have been unlocked to you | -9985, 2883 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Nuke | Secrets of utter destruction have been unlocked to you | 3472, 1879 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Necromancy | Secrets of Undeath have been unlocked to you | 9982, 2883 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Holy Bomb | Secrets of fire and brimstone have been unlocked to you | -4353, 3912 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Spiral Shot | Secrets of the Spiral have been unlocked to you | -3841, 10052 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Thundercloud | Secrets of the stormy skies have been unlocked to you | 4350, 836 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Fireworks! | Secrets of jubilation have been unlocked to you | -256, 16208 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Summon Deercoy, Flock of Ducks, and Worm Launcher | Secrets of hidden danger have been unlocked to you | -8960, 14666 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
+| Orb: Cement | Secrets of rebuilding have been unlocked to you | 10495, 16195 | regular-main-branch, regular-beta, apotheosis-beta-branch | Wiki |
 
 ## Spatial Awareness Points
 
 | Name | Location (x, y) | Maps | Wiki |
 |------|----------------|------|------|
-| Mina (Player) | 226, 85 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Min%C3%A4) |
-| Friend Boss (Toveri). Note that the boss did not spawn in the main world (bug), and only seen in the east world | -10500, 4360 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Toveri) |
-| Coral Chest | 11519, -4806 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Crystal_Key#Coral_Chest) |
-| Dark Chest | 3840, 15649 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Crystal_Key#Dark_Chest) |
-| Ocarina | -9984, -6418 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Huilu) |
-| Essence Of Spirits | -14081, 13567 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Spirits) |
-| Essence Of Air | -13056, -5377 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Air) |
-| Essence Of Fire | -14062, 370 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Fire) |
-| Essence Of Water | -5376, 16640 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Water) |
-| Essence Of Earth | 16128, -1792 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Essences#Essence_of_Earth) |
-| Mountain Hall | 759, -450 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Forest) |
-| Perk Removal Altar (Nullifying Altar) | 14080, 7510 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Nullifying_Altar) |
-| Holy Mountain (Mines) | -2, 1373 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Holy_Mountain) |
-| Holy Mountain (Coal Pits) | -2, 2909 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Holy_Mountain) |
-| Holy Mountain (Snowy Depths) | -2, 4956 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Holy_Mountain) |
-| Holy Mountain (Hiisi Base) | -2, 6492 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Holy_Mountain) |
-| Holy Mountain (Underground Jungle) | -2, 8540 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Holy_Mountain) |
-| Holy Mountain (Temple of the Art) | -2, 10589 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Holy_Mountain) |
-| Holy Mountain (The Laboratory) | 2590, 13144 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Holy_Mountain) |
+| Mina (Player) | 226, 85 | regular-main-branch, regular-beta | Wiki |
+| Friend Boss (Toveri). Note that the boss did not spawn in the main world (bug), and only seen in the east world | -10500, 4360 | regular-main-branch, regular-beta | Wiki |
+| Coral Chest | 11519, -4806 | regular-main-branch, regular-beta | Wiki |
+| Dark Chest | 3840, 15649 | regular-main-branch, regular-beta | Wiki |
+| Ocarina | -9984, -6418 | regular-main-branch, regular-beta | Wiki |
+| Essence Of Spirits | -14081, 13567 | regular-main-branch, regular-beta | Wiki |
+| Essence Of Air | -13056, -5377 | regular-main-branch, regular-beta | Wiki |
+| Essence Of Fire | -14062, 370 | regular-main-branch, regular-beta | Wiki |
+| Essence Of Water | -5376, 16640 | regular-main-branch, regular-beta | Wiki |
+| Essence Of Earth | 16128, -1792 | regular-main-branch, regular-beta | Wiki |
+| Mountain Hall | 759, -450 | regular-main-branch, regular-beta | Wiki |
+| Perk Removal Altar (Nullifying Altar) | 14080, 7510 | regular-main-branch, regular-beta | Wiki |
+| Holy Mountain (Mines) | -2, 1373 | regular-main-branch, regular-beta | Wiki |
+| Holy Mountain (Coal Pits) | -2, 2909 | regular-main-branch, regular-beta | Wiki |
+| Holy Mountain (Snowy Depths) | -2, 4956 | regular-main-branch, regular-beta | Wiki |
+| Holy Mountain (Hiisi Base) | -2, 6492 | regular-main-branch, regular-beta | Wiki |
+| Holy Mountain (Underground Jungle) | -2, 8540 | regular-main-branch, regular-beta | Wiki |
+| Holy Mountain (Temple of the Art) | -2, 10589 | regular-main-branch, regular-beta | Wiki |
+| Holy Mountain (The Laboratory) | 2590, 13144 | regular-main-branch, regular-beta | Wiki |
 
 ## Structures
 
 | Name | Description | Location (x, y) | Maps | Wiki | Quest References |
 |------|-------------|----------------|------|------|------------------|
 | Watchtower | Seems to just be a hint to head to the temples in the sky. | 14074, -810 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | - | - |
-| Barren Temple | You can find a potion of mimicium here to start your quest. Later you will need to revisit to help this temple flourish. | -5453, -5108 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | [Wiki](https://noita.wiki.gg/wiki/Sky_Temples#Barren_Temple) | [Cessation Quest](noita-quests.md#the-cessation-quest-sky-temples-quest-chain) |
-| Henkevä Temple. 'Spirited Temple' | Potions here require mimicium. Pheromone will aid you. They might also need a little kick. | -1806, -4880 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | [Wiki](https://noita.wiki.gg/wiki/Sky_Temples#Henkev%C3%A4_Temple) | [Cessation Quest](noita-quests.md#part-2-henkev%C3%A4-temple-spirited-temple) |
-| Ominous Temple | A large pool of ominous liquid is needed here. Sea of Mimicium will be helpful. | 2760, -4660 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | [Wiki](https://noita.wiki.gg/wiki/Sky_Temples#Ominous_Temple) | [Cessation Quest](noita-quests.md#part-3-ominous-temple) |
-| Kivi Temple | A boss fight here might be easier with a spell unlocked in another temple | 7379, -4655 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | [Wiki](https://noita.wiki.gg/wiki/Sky_Temples#Kivi_Temple) | [Cessation Quest](noita-quests.md#bonus-kivi-temple) |
-| Anvil | - | 1537, 6045 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Hiisi_Anvil) | [End of Everything Quest](noita-quests.md#the-end-of-everything-quest-hand-statue-quest), [Fish Quest](noita-quests.md#advanced-guide-fish-quest) |
-| Mountain Altar | - | 781, -1167 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Mountain_Altar) | [Fish Quest](noita-quests.md#advanced-guide-fish-quest) |
-| The Work | - | 6397, 15072 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Work) | - |
-| Perk Removal Altar (Nullifying Altar) | - | 14080, 7510 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Nullifying_Altar) | - |
-| Greed Curse Pedestal | - | -1376, -415 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Curse_of_Greed) | - |
-| Lake Island | - | -14073, 206 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Lake#Lake_Island) | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest) |
-| Eye Spell Room | - | -3840, 5374 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Hourglass_Chamber#Teleportatium) | - |
-| Desert Skull, Eye | - | 7360, 80 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Desert#The_Giant_Skull) | - |
-| Sun/Moon | - | 259, -25847 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Moon) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Dark Sun/Dark Moon | - | 261, 37764 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Dark_Moon) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Hell Shop | - | -3323, 28400 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Work_(Hell)) | - |
-| Hell Shop | - | 3310, 36086 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Work_(Hell)) | - |
-| Heaven Shop | - | -3364, -20722 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Work_(Sky)) | - |
-| Heaven Shop | - | 3309, -13024 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Work_(Sky)) | - |
-| Gourd Cave | - | -16134, -6312 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Refreshing_Gourd) | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest), [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
-| End Of Everything Room | - | -4862, 15110 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_End_of_Everything) | [End of Everything Quest](noita-quests.md#the-end-of-everything-quest-hand-statue-quest) |
-| Experimental Wand Diamond | - | 16127, 9986 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Experimental_Wands#Experimental_Wand_(???)) | - |
-| Moon Radar Diamond | - | 16126, 3328 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Moon_Radar) | - |
-| Averice Diamond | - | 9472, 4330 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Tower#Avarice_Diamond) | - |
-| Hourglass | - | -2221, 5247 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Hourglass_Chamber) | - |
-| Big Fungus - Desert Caves | - | 5890, 3302 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_altars) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Fungal Altar - Overgrown Cavern | - | 15104, 1848 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_altars) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Fungal Altar - Power Plant | - | 13056, 10040 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_altars) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Fungal Altar – Vault | - | -1280, 10040 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_altars) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Fungal Altar - Fungal Cavern | - | -3328, 1848 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_altars) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Fungal Altar - Air (Above Desert) | - | 5932, -4808 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Advanced_Guide:_Sun_Quest#The_Fungal_altars) | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
-| Outhouse | - | 9091, -1783 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Touch_of_Gold%3F#Locating) | - |
-| Meditation Cube Room | - | -4349, 2303 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Meditation_Chamber) | - |
-| Buried Eye Room | - | 3894, 4405 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Buried_Eye) | - |
-| Race Track | - | 3250, 2309 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Racetrack) | - |
-| Tower Portal Diamond | - | 9984, 4358 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Tower) | - |
-| Gold Biome | - | 15096, -3331 | regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Gold) | - |
-| Gold Biome (Apotheosis) | - | 22778, -3336 | apotheosis-beta-branch | [Wiki](https://noita.wiki.gg/wiki/The_Gold) | - |
-| Gold Biome (Under The Lake) | - | -14072, 16615 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/The_Gold) | - |
-| Dark Cave (At Refresh Heart) | - | -1796, 797 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Dark_Cave) | - |
-| Scales | - | 13060, 8 | apotheosis-beta-branch, regular-main-branch, regular-beta | [Wiki](https://noita.wiki.gg/wiki/Celestial_Scale) | - |
+| Barren Temple | You can find a potion of mimicium here to start your quest. Later you will need to revisit to help this temple flourish. | -5453, -5108 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | Cessation Quest |
+| Henkevä Temple. 'Spirited Temple' | Potions here require mimicium. Pheromone will aid you. They might also need a little kick. | -1806, -4880 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | Cessation Quest |
+| Ominous Temple | A large pool of ominous liquid is needed here. Sea of Mimicium will be helpful. | 2760, -4660 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | Cessation Quest |
+| Kivi Temple | A boss fight here might be easier with a spell unlocked in another temple | 7379, -4655 | apotheosis-beta-branch, regular-main-branch, regular-beta, new-game-plus-main-branch | Wiki | Cessation Quest |
+| Anvil | - | 1537, 6045 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | End of Everything Quest, Fish Quest |
+| Mountain Altar | - | 781, -1167 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Fish Quest |
+| The Work | - | 6397, 15072 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Perk Removal Altar (Nullifying Altar) | - | 14080, 7510 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Greed Curse Pedestal | - | -1376, -415 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Lake Island | - | -14073, 206 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Coral Crystal Key Quest |
+| Eye Spell Room | - | -3840, 5374 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Desert Skull, Eye | - | 7360, 80 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Sun/Moon | - | 259, -25847 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Dark Sun/Dark Moon | - | 261, 37764 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Hell Shop | - | -3323, 28400 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
+| Hell Shop | - | 3310, 36086 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
+| Heaven Shop | - | -3364, -20722 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
+| Heaven Shop | - | 3309, -13024 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
+| Gourd Cave | - | -16134, -6312 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Coral Crystal Key Quest, Dark Crystal Key Quest |
+| End Of Everything Room | - | -4862, 15110 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | End of Everything Quest |
+| Experimental Wand Diamond | - | 16127, 9986 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki) | - |
+| Moon Radar Diamond | - | 16126, 3328 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Averice Diamond | - | 9472, 4330 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Hourglass | - | -2221, 5247 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Big Fungus - Desert Caves | - | 5890, 3302 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Fungal Altar - Overgrown Cavern | - | 15104, 1848 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Fungal Altar - Power Plant | - | 13056, 10040 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Fungal Altar – Vault | - | -1280, 10040 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Fungal Altar - Fungal Cavern | - | -3328, 1848 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Fungal Altar - Air (Above Desert) | - | 5932, -4808 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | Sun Quest |
+| Outhouse | - | 9091, -1783 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Meditation Cube Room | - | -4349, 2303 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Buried Eye Room | - | 3894, 4405 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Race Track | - | 3250, 2309 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Tower Portal Diamond | - | 9984, 4358 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Gold Biome | - | 15096, -3331 | regular-main-branch, regular-beta | Wiki | - |
+| Gold Biome (Apotheosis) | - | 22778, -3336 | apotheosis-beta-branch | Wiki | - |
+| Gold Biome (Under The Lake) | - | -14072, 16615 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Dark Cave (At Refresh Heart) | - | -1796, 797 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
+| Scales | - | 13060, 8 | apotheosis-beta-branch, regular-main-branch, regular-beta | Wiki | - |
 
 ## Books
 
@@ -1031,16 +898,16 @@ Books in Noita provide cryptic hints and lore that guide players in uncovering t
 
 | Name | Location | Approximate Coordinates | Text | Quest Reference |
 |------|----------|------------------------|------|-----------------|
-| A Cunning Contraption | Dropped by Mestarien mestari | ~12573, 15178 | "The secret lies in music! The key to the heavens' lock is borne from music all over the world. And in a way, as above, so below..." | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest), [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
-| Alchemist's Note | In the cave with the Refreshing Gourd, beside the Western Cloudscape | ~-16134, -6312 | "Here I'm safe. I am safe. I left the others behind. And I have locked my research so that only those with real understanding can reach it. I should not worry." | [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
-| Book of the Key | In the cave with the Refreshing Gourd, beside the Western Cloudscape | ~-16134, -6312 | "Once the Key has listened to you, bring it home... One home in the sky, beyond the invisible steps... One home in the underworld, below seas of magma..." | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest), [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
+| A Cunning Contraption | Dropped by Mestarien mestari | ~12573, 15178 | "The secret lies in music! The key to the heavens' lock is borne from music all over the world. And in a way, as above, so below..." | Coral Crystal Key Quest, Dark Crystal Key Quest |
+| Alchemist's Note | In the cave with the Refreshing Gourd, beside the Western Cloudscape | ~-16134, -6312 | "Here I'm safe. I am safe. I left the others behind. And I have locked my research so that only those with real understanding can reach it. I should not worry." | Dark Crystal Key Quest |
+| Book of the Key | In the cave with the Refreshing Gourd, beside the Western Cloudscape | ~-16134, -6312 | "Once the Key has listened to you, bring it home... One home in the sky, beyond the invisible steps... One home in the underworld, below seas of magma..." | Coral Crystal Key Quest, Dark Crystal Key Quest |
 | Musings of an Adventurer | In the ??? room east of the Power Plant | ~16127, 9986 | "This machinery is unlike any I've seen before. Did the Hiisi create it? Or was it always here?" | Experimental Wand (found in same room) |
-| Research Notes | Within the Pyramid, found next to Kolmisilmän koipi | ~9984, -786 | "One in the pond One in the tree One on the ledge One under the sun" | [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest) |
-| Tome of Essences | Found next to the Coral Chest | ~11519, -4806 | "The four Essences represent the four Elements that form this visible World... Imbued with their Terrible Power, one may do great deeds, but one should be Afraid of their destructive Might. To this end, we have Devised a way to remove these Dangerous Forces; seek it in the West and East. A Legend also tells that all the Elements originated from the Egg of Sky and return to It one day..." | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko), [Coral Crystal Key Quest](noita-quests.md#the-coral-crystal-key-quest) |
-| Adept's Note | Within the Barren Temple | ~-5453, -5108 | "Those who attain the fruit of the House above the Triadic Tomb shall hold this truth: The Holiest Ground is most fertile when touched by Our Water." | [Cessation Quest](noita-quests.md#the-cessation-quest-sky-temples-quest-chain) |
+| Research Notes | Within the Pyramid, found next to Kolmisilmän koipi | ~9984, -786 | "One in the pond One in the tree One on the ledge One under the sun" | Coral Crystal Key Quest |
+| Tome of Essences | Found next to the Coral Chest | ~11519, -4806 | "The four Essences represent the four Elements that form this visible World... Imbued with their Terrible Power, one may do great deeds, but one should be Afraid of their destructive Might. To this end, we have Devised a way to remove these Dangerous Forces; seek it in the West and East. A Legend also tells that all the Elements originated from the Egg of Sky and return to It one day..." | Sun Quest, Coral Crystal Key Quest |
+| Adept's Note | Within the Barren Temple | ~-5453, -5108 | "Those who attain the fruit of the House above the Triadic Tomb shall hold this truth: The Holiest Ground is most fertile when touched by Our Water." | Cessation Quest |
 | Book of Guidance | Found in the Fungal Caverns | ~-7, 3 (biome) | "One of my brethren ran away in order to escape our predicament... They felt our understanding of this world was to be forbidden. They hid something here, in this room, but... ...I lack the ability to truly see what is here!" | Hidden content in Fungal Caverns |
-| Book of the Jewel | Located next to the Dark Chest | ~3840, 15649 | "In my dream I saw a great Diamond... It invited me within, offering me Grand Treasures. This it said to me: 'If you wish to follow the Path I show you here, you must bring me one of these Two: a terrible Curse of Avarice, or the most Singular being in this realm.' I do not fully understand these words, but I still see the Diamond in my mind's eye..." | [Dark Crystal Key Quest](noita-quests.md#the-dark-crystal-key-quest) |
-| Book of Celestial Bodies | Next to the Kuulokivi (Music Stone) | ~-3342, 3346 | "As with everything else, every celestial body also has its counterpart. For every golden star is a dark enigma, and for every silvery moon there is a hollow shadow." | [Sun Quest](noita-quests.md#advanced-guide-sun-quest-uusi-aurinko) |
+| Book of the Jewel | Located next to the Dark Chest | ~3840, 15649 | "In my dream I saw a great Diamond... It invited me within, offering me Grand Treasures. This it said to me: 'If you wish to follow the Path I show you here, you must bring me one of these Two: a terrible Curse of Avarice, or the most Singular being in this realm.' I do not fully understand these words, but I still see the Diamond in my mind's eye..." | Dark Crystal Key Quest |
+| Book of Celestial Bodies | Next to the Kuulokivi (Music Stone) | ~-3342, 3346 | "As with everything else, every celestial body also has its counterpart. For every golden star is a dark enigma, and for every silvery moon there is a hollow shadow." | Sun Quest |
 
 ### Notes on Grand Alchemy (Sun Quest Books)
 
@@ -1048,13 +915,12 @@ These books are found at Fungal Altars and provide hints for the Sun Quest (Uusi
 
 | Name | Location | Approximate Coordinates | Text | Quest Step |
 |------|----------|------------------------|------|------------|
-| Notes on Grand Alchemy (Book S_A) | Fungal Altar at Fungal Caverns (west of Coal Pits) | ~-3328, 1848 | "Among the great alchemical endeavors there are some that, while not equal to the Great Work, nonetheless are revered greatly for the deific potence they instill to whomsoever succeeds in harnessing their power. The One I am about to discuss calls for a Seed of great promise, hidden deep within the Soil of this Earth..." | [Sun Quest - Finding the Sun Seed](noita-quests.md#phase-3-finding-and-awakening-the-seed) |
-| Notes on Grand Alchemy (Book S_B) | Fungal Altar above the Desert Chasm | ~5932, -4808 | "...Bring the slumbering Seed to life by letting it soak in the rays of the Sun, on the pinnacle of past civilizations..." | [Sun Quest - Awakening the Seed at Pyramid](noita-quests.md#phase-3-finding-and-awakening-the-seed) |
-| Notes on Grand Alchemy (Book S_C) | Fungal Altar in the Power Plant | ~13056, 10040 | "...Once the Seed has been awakened, it must be brought to the place where the Sun first shone upon the Earth, to be bathed in the light of the original Sun..." | [Sun Quest - Bringing Seed to original Sun location](noita-quests.md#phase-6-fire-transformation) |
-| Notes on Grand Alchemy (Book S_D) | Fungal Altar in The Vault | ~-1280, 10040 | "...The Seed, now imbued with the power of the original Sun, must be taken to the place where the new Sun shall rise, to be bathed in the light of the new dawn..." | [Sun Quest - Bringing Seed to new Sun location](noita-quests.md#phase-6-fire-transformation) |
-| Notes on Grand Alchemy (Book S_E) | Fungal Altar in the Overgrown Cavern | ~15104, 1848 | "...Finally, the Seed must be returned to the place where it was first found, to complete the cycle and bring forth the new Sun..." | [Sun Quest - Returning Seed to origin](noita-quests.md#phase-7-completion) |
+| Notes on Grand Alchemy (Book S_A) | Fungal Altar at Fungal Caverns (west of Coal Pits) | ~-3328, 1848 | "Among the great alchemical endeavors there are some that, while not equal to the Great Work, nonetheless are revered greatly for the deific potence they instill to whomsoever succeeds in harnessing their power. The One I am about to discuss calls for a Seed of great promise, hidden deep within the Soil of this Earth..." | Sun Quest - Finding the Sun Seed |
+| Notes on Grand Alchemy (Book S_B) | Fungal Altar above the Desert Chasm | ~5932, -4808 | "...Bring the slumbering Seed to life by letting it soak in the rays of the Sun, on the pinnacle of past civilizations..." | Sun Quest - Awakening the Seed at Pyramid |
+| Notes on Grand Alchemy (Book S_C) | Fungal Altar in the Power Plant | ~13056, 10040 | "...Once the Seed has been awakened, it must be brought to the place where the Sun first shone upon the Earth, to be bathed in the light of the original Sun..." | Sun Quest - Bringing Seed to original Sun location |
+| Notes on Grand Alchemy (Book S_D) | Fungal Altar in The Vault | ~-1280, 10040 | "...The Seed, now imbued with the power of the original Sun, must be taken to the place where the new Sun shall rise, to be bathed in the light of the new dawn..." | Sun Quest - Bringing Seed to new Sun location |
+| Notes on Grand Alchemy (Book S_E) | Fungal Altar in the Overgrown Cavern | ~15104, 1848 | "...Finally, the Seed must be returned to the place where it was first found, to complete the cycle and bring forth the new Sun..." | Sun Quest - Returning Seed to origin |
 
-**Source:** [Books Wiki](https://noita.wiki.gg/wiki/Books)
 
 **Note:** Approximate coordinates are derived from nearby structures, bosses, or biome locations. Exact book locations may vary slightly within their described areas.
 
@@ -1086,11 +952,8 @@ Emerald Tablets are small green items found typically near Orbs of True Knowledg
 
 ## Source
 
-Data collected from: https://github.com/acidflow-noita/noitamap/tree/main/src/data
 
 Additional data from:
-- https://noita.fandom.com/wiki/Emerald_Tablet
-- https://noita.wiki.gg/wiki/Books
 
 Excluded files:
 - biome_boundries_py.json (boundaries)
@@ -1099,4 +962,10 @@ Excluded files:
 - overlays_regular_game.json (overlays)
 - tilesources.json (tile sources)
 - spells.json (no location data, reference only)
+
+
+
+
+
+
 
