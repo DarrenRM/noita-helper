@@ -41,33 +41,40 @@ function resetConversationState() {
 }
 
 // Load context data and quests
-let contextData = "";
-let questsData = null;
-try {
-    const questsPath = path.join(__dirname, 'data', 'quests.json');
-    const contextPath = path.join(__dirname, 'data', 'context.md');
-    
-    let questsJson = "{}";
-    let contextMd = "";
+const questsPath = path.join(__dirname, 'data', 'quests.json');
+const contextPath = path.join(__dirname, 'data', 'context.md');
 
-    if (fs.existsSync(questsPath)) {
-        questsJson = fs.readFileSync(questsPath, 'utf8');
-        questsData = JSON.parse(questsJson);
-    }
-    if (fs.existsSync(contextPath)) {
-        contextMd = fs.readFileSync(contextPath, 'utf8');
-    }
-    
-    contextData = `
+// Function to reload quest data (called on each request to pick up changes)
+function loadQuestData() {
+    let contextData = "";
+    let questsData = null;
+    try {
+        let questsJson = "{}";
+        let contextMd = "";
+
+        if (fs.existsSync(questsPath)) {
+            questsJson = fs.readFileSync(questsPath, 'utf8');
+            questsData = JSON.parse(questsJson);
+        }
+        if (fs.existsSync(contextPath)) {
+            contextMd = fs.readFileSync(contextPath, 'utf8');
+        }
+        
+        contextData = `
 QUEST DATA:
 ${questsJson}
 
 GAME CONTEXT:
 ${contextMd}
 `;
-} catch (error) {
-    console.error("Error loading data files:", error);
+    } catch (error) {
+        console.error("Error loading data files:", error);
+    }
+    return { contextData, questsData };
 }
+
+// Initial load
+let { contextData, questsData } = loadQuestData();
 
 // Get prerequisite item for a quest step (what they need BEFORE this step)
 function getPrerequisiteForStep(questId, stepNum) {
@@ -119,6 +126,9 @@ function getHintForStep(questId, stepNum) {
 
 app.post('/api/hint', async (req, res) => {
     try {
+        // Reload quest data on each request to pick up changes
+        ({ contextData, questsData } = loadQuestData());
+        
         const { query, isFollowUp, previousQuery } = req.body;
         if (!query) {
             return res.status(400).json({ error: "Query is required" });
@@ -306,10 +316,17 @@ Return ONLY valid JSON (no explanation):
             });
         }
 
-        // Step 1 or unidentified - give hint directly
+        // Give hint for the NEXT step (since AI identified what they found/completed)
         let hintText = null;
+        let nextStep = null;
         if (questsData && aiResponse.quest_id !== null && aiResponse.current_step !== null) {
-            hintText = getHintForStep(aiResponse.quest_id, aiResponse.current_step);
+            nextStep = aiResponse.current_step + 1;
+            hintText = getHintForStep(aiResponse.quest_id, nextStep);
+            
+            // If no hint for next step, they may have completed the quest
+            if (!hintText) {
+                hintText = "The spirits sense you have reached the end of this path. The final steps are yours to take.";
+            }
         }
 
         // If no hint found, provide a fallback message
@@ -324,7 +341,7 @@ Return ONLY valid JSON (no explanation):
         res.json({
             type: "hint",
             quest_id: aiResponse.quest_id,
-            current_step: aiResponse.current_step,
+            current_step: nextStep || aiResponse.current_step,
             confidence: aiResponse.confidence,
             response: hintText
         });

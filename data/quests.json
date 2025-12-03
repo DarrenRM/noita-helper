@@ -67,7 +67,7 @@
       "name": "The Coral Crystal Key Quest",
       "steps": [
         { "step": 1, "hint": "Where ancient knowledge sleeps, guarded by one who has mastered the highest art, a key waits. Seek an abandoned laboratory where experiments still whisper.", "task": "Defeat High Alchemist" },
-        { "step": 2, "hint": "Key in hand. Four listeners await - one beneath pond waters. Where ancient stone reaches skyward, near the three-eyed guardian, research notes wait. They speak in riddles of four places.", "task": "Charge Key at Pond Music Machine" },
+        { "step": 2, "hint": "The key is voiceless without a tune.", "task": "Charge Key at Pond Music Machine" },
         { "step": 3, "hint": "The key has heard one song. Three more places sing. Perhaps where trees reach skyward.", "task": "Charge Key at Tree Music Machine" },
         { "step": 4, "hint": "Two songs learned. Two more await. Perhaps where ice and water meet, where stone rises from water.", "task": "Charge Key at Island Music Machine" },
         { "step": 5, "hint": "Three songs known. One remains. Perhaps where sun beats down, where ancient stone sleeps.", "task": "Charge Key at Desert Music Machine" },
